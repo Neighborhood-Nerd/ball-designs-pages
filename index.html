@@ -20,9 +20,14 @@
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Browse N3D 3D print designs.">
 
-  <!-- iOS meta tags & icons -->
+  <!-- Safari / Chrome UI chrome (tab bar, bottom toolbar on iOS 15+) -->
+  <meta name="theme-color" content="#0F1117">
+  <meta name="color-scheme" content="dark">
+
+  <!-- iOS: title when saved to Home Screen; status bar in standalone mode -->
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="N3D Designs">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
@@ -31,6 +36,12 @@
 
   <title>N3D Design Library</title>
   <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body {
+      background-color: #0F1117;
+    }
+  </style>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>

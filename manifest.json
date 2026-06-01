@@ -1,12 +1,12 @@
 {
-    "name": "n3d_designs_app",
-    "short_name": "n3d_designs_app",
+    "name": "N3D Design Library",
+    "short_name": "N3D Designs",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#0F1117",
+    "theme_color": "#0F1117",
+    "description": "Browse N3D 3D print designs.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
