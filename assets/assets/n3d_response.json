@@ -1,0 +1,1848 @@
+{
+  "data": [
+    {
+      "slug": "0389-torterra",
+      "title": "0389 - Torterra",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0389%20-%20Torterra%20-%20V1/1-400.webp",
+      "print_time": "11:16",
+      "total_weight_grams": 129.18,
+      "entitled": true
+    },
+    {
+      "slug": "0006-mega-charizard-y",
+      "title": "0006 Mega Charizard Y",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20Mega%20Charizard%20Y%20-%20V1/1-400.webp",
+      "print_time": "10:4",
+      "total_weight_grams": 137.69,
+      "entitled": true
+    },
+    {
+      "slug": "0122-mr-mime",
+      "title": "0122 - Mr.Mime",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0122%20-%20Mr.Mime%20-%20V1/1-400.webp",
+      "print_time": "5:05",
+      "total_weight_grams": 100.51,
+      "entitled": true
+    },
+    {
+      "slug": "0643-reshiram",
+      "title": "0643 Reshiram",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0643%20Reshiram%20-%20V1/1-400.webp",
+      "print_time": "9:27",
+      "total_weight_grams": 169.83,
+      "entitled": true
+    },
+    {
+      "slug": "0979-annihilape",
+      "title": "0979 - Annihilape",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0979%20-%20Annihilape%20-%20V1/1-400.webp",
+      "print_time": "7:42",
+      "total_weight_grams": 125.24,
+      "entitled": true
+    },
+    {
+      "slug": "0384-mega-rayquaza",
+      "title": "0384 - Mega Rayquaza",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0384%20-%20Mega%20Rayquaza%20-%20V1/1-400.webp",
+      "print_time": "6:14",
+      "total_weight_grams": 113.03,
+      "entitled": false
+    },
+    {
+      "slug": "0076-golem",
+      "title": "0076 - Golem",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0076%20-%20Golem%20-%20V1/1-400.webp",
+      "print_time": "4:06",
+      "total_weight_grams": 75.33,
+      "entitled": true
+    },
+    {
+      "slug": "0075-graveler",
+      "title": "0075 - Graveler",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0075%20-%20Graveler/1-400.webp",
+      "print_time": "4:23",
+      "total_weight_grams": 99.04,
+      "entitled": true
+    },
+    {
+      "slug": "0212-scizor",
+      "title": "0212 - Scizor",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0212%20-%20Scizor%20-%20V1/1-400.webp",
+      "print_time": "6:51",
+      "total_weight_grams": 129.05,
+      "entitled": false
+    },
+    {
+      "slug": "0135-jolteon",
+      "title": "0135 - Jolteon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0135%20-%20Jolteon%20-%20V1.1/1-400.webp",
+      "print_time": "5:47",
+      "total_weight_grams": 107.51,
+      "entitled": true
+    },
+    {
+      "slug": "0074-geodude",
+      "title": "0074 - Geodude",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0074%20-%20Geodude%20-%20V1/1-400.webp",
+      "print_time": "4:23",
+      "total_weight_grams": 86.76,
+      "entitled": true
+    },
+    {
+      "slug": "0003-venusaur",
+      "title": "0003 - Venusaur",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0003%20-%20Venusaur%20-%20V1/1-400.webp",
+      "print_time": "6:54",
+      "total_weight_grams": 118.91,
+      "entitled": false
+    },
+    {
+      "slug": "0130-gyarados",
+      "title": "0130 - Gyarados",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0130%20-%20Gyarados%20-%20V3/1-400.webp",
+      "print_time": "6:27",
+      "total_weight_grams": 113.17,
+      "entitled": true
+    },
+    {
+      "slug": "0093-haunter",
+      "title": "0093 - Haunter",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0093%20-%20Haunter%20-%20V2.1/1-400.webp",
+      "print_time": "04:14",
+      "total_weight_grams": 87.92,
+      "entitled": false
+    },
+    {
+      "slug": "0487-giratina",
+      "title": "0487 - Giratina",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0487%20-%20Giratina%20-%20V1.1/1-400.webp",
+      "print_time": "8:44",
+      "total_weight_grams": 144.2,
+      "entitled": false
+    },
+    {
+      "slug": "0126-magmar",
+      "title": "0126 - Magmar",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0126%20-%20Magmar%20-%20V1/1-400.webp",
+      "print_time": "6:14",
+      "total_weight_grams": 115.2,
+      "entitled": true
+    },
+    {
+      "slug": "0080-slowbro",
+      "title": "0080 - Slowbro",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0080%20-%20Slowbro%20-%20V1/1-400.webp",
+      "print_time": "6:36",
+      "total_weight_grams": 126.49,
+      "entitled": true
+    },
+    {
+      "slug": "0079-slowpoke",
+      "title": "0079 - Slowpoke",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0079%20-%20Slowpoke%20-%20V1/1-400.webp",
+      "print_time": "4:19",
+      "total_weight_grams": 88.81,
+      "entitled": true
+    },
+    {
+      "slug": "0258-mudkip",
+      "title": "0258 - Mudkip",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0258%20-%20Mudkip%20-%20V1/1-400.webp",
+      "print_time": "5:02",
+      "total_weight_grams": 94.45,
+      "entitled": true
+    },
+    {
+      "slug": "0350-milotic",
+      "title": "0350 - Milotic",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0350%20Milotic%20-%20V1/1-400.webp",
+      "print_time": "6:43",
+      "total_weight_grams": 117.65,
+      "entitled": true
+    },
+    {
+      "slug": "0778-mimikyu",
+      "title": "0778 - Mimikyu",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0778%20-%20Mimikyu%20-%20V1.4/1-400.webp",
+      "print_time": "8:34",
+      "total_weight_grams": 157.26,
+      "entitled": false
+    },
+    {
+      "slug": "0042-golbat",
+      "title": "0042 - Golbat",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0042%20-%20Golbat%20-%20V1.1/1-400.webp",
+      "print_time": "4:26",
+      "total_weight_grams": 89.95,
+      "entitled": false
+    },
+    {
+      "slug": "0119-seaking",
+      "title": "0119 - Seaking",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0119%20-%20Seaking%20-%20V1/1-400.webp",
+      "print_time": "5:57",
+      "total_weight_grams": 107.96,
+      "entitled": true
+    },
+    {
+      "slug": "0118-goldeen",
+      "title": "0118 - Goldeen",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0118%20-%20Goldeen%20-%20v1/1-400.webp",
+      "print_time": "5:13",
+      "total_weight_grams": 97.71,
+      "entitled": true
+    },
+    {
+      "slug": "0229-houndoom",
+      "title": "0229 - Houndoom",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0229%20-%20Houndoom%20-%20V1/1-400.webp",
+      "print_time": "5:20",
+      "total_weight_grams": 104.32,
+      "entitled": true
+    },
+    {
+      "slug": "0228-houndour",
+      "title": "0228 - Houndour",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0228%20-%20Houndour/1-400.webp",
+      "print_time": "6h 0m",
+      "total_weight_grams": 93.51,
+      "entitled": false
+    },
+    {
+      "slug": "0405-luxray",
+      "title": "0405 - Luxray",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0405%20-%20Luxray%20-%20V1/1-400.webp",
+      "print_time": "5:46",
+      "total_weight_grams": 108.18,
+      "entitled": false
+    },
+    {
+      "slug": "0137-porygon",
+      "title": "0137 - Porygon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0137%20-%20Porygon%20-%20V1/1-400.webp",
+      "print_time": "5:05",
+      "total_weight_grams": 97.4,
+      "entitled": false
+    },
+    {
+      "slug": "0142-aerodactyl",
+      "title": "0142 - Aerodactyl",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0142%20-%20Aerodactyl/1-400.webp",
+      "print_time": "6:21",
+      "total_weight_grams": 127,
+      "entitled": false
+    },
+    {
+      "slug": "0072-tentacool",
+      "title": "0072 - Tentacool",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0072%20-%20Tentacool%20-%20V1/1-400.webp",
+      "print_time": "5:13",
+      "total_weight_grams": 104.1,
+      "entitled": false
+    },
+    {
+      "slug": "0906-sprigatito",
+      "title": "0906 Sprigatito",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0906%20Sprigatito%20-%20V1/1-400.webp",
+      "print_time": "0:00:00",
+      "total_weight_grams": 103.74,
+      "entitled": false
+    },
+    {
+      "slug": "0386-deoxys",
+      "title": "0386 - Deoxys",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/386%20Deoxys%20-%20%20V1/1-400.webp",
+      "print_time": "5:00",
+      "total_weight_grams": 99.85,
+      "entitled": false
+    },
+    {
+      "slug": "0117-seadra",
+      "title": "0117 - Seadra",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0117%20-%20Seadra/1-400.webp",
+      "print_time": "6:52",
+      "total_weight_grams": 118.54,
+      "entitled": false
+    },
+    {
+      "slug": "0116-horsea",
+      "title": "0116 - Horsea",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0116%20-%20Horsea/1-400.webp",
+      "print_time": "5:11",
+      "total_weight_grams": 97,
+      "entitled": false
+    },
+    {
+      "slug": "0077-galarian-ponyta",
+      "title": "0077 - Galarian Ponyta",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0077%20-%20Galarian%20Ponyta/1-400.webp",
+      "print_time": "7:44",
+      "total_weight_grams": 140.39,
+      "entitled": false
+    },
+    {
+      "slug": "0006-charizard",
+      "title": "0006 - Charizard",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20-%20Charizard%20-%20V2.1/1-400.webp",
+      "print_time": "7:20",
+      "total_weight_grams": 125.87,
+      "entitled": false
+    },
+    {
+      "slug": "0089-muk",
+      "title": "0089 - Muk",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0089%20-%20Muk%20-%20V1/1-400.webp",
+      "print_time": "7:47",
+      "total_weight_grams": 152.26,
+      "entitled": false
+    },
+    {
+      "slug": "0399-bidoof",
+      "title": "0399 - Bidoof",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0399%20-%20Bidoof%20-%20V1/1-400.webp",
+      "print_time": "5:41",
+      "total_weight_grams": 111.72,
+      "entitled": false
+    },
+    {
+      "slug": "0001-bulbasaur-love",
+      "title": "0001 - Bulbasaur - Rose",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20Rose%20-%20V1/1-400.webp",
+      "print_time": "4:59",
+      "total_weight_grams": 93.41,
+      "entitled": true
+    },
+    {
+      "slug": "0609-chandelure",
+      "title": "0609 - Chandelure",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0609%20-%20Chandelure/1-400.webp",
+      "print_time": "6:53",
+      "total_weight_grams": 115.48,
+      "entitled": false
+    },
+    {
+      "slug": "0088-grimer",
+      "title": "0088 - Grimer",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0088%20-%20Grimer/1-400.webp",
+      "print_time": "9:26",
+      "total_weight_grams": 152.37,
+      "entitled": false
+    },
+    {
+      "slug": "0571-zoroark",
+      "title": "0571 - Zoroark",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0571%20-%20Zoroark%20-%20V1/1-400.webp",
+      "print_time": "10:20",
+      "total_weight_grams": 171.73,
+      "entitled": false
+    },
+    {
+      "slug": "0570-zorua",
+      "title": "0570 - Zorua",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0570%20-%20Zorua/1-400.webp",
+      "print_time": "6:05",
+      "total_weight_grams": 114.78,
+      "entitled": false
+    },
+    {
+      "slug": "0115-kangaskhan",
+      "title": "0115 - Kangaskhan",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0115%20-%20Kangaskhan/1-400.webp",
+      "print_time": "5:36",
+      "total_weight_grams": 97.37,
+      "entitled": false
+    },
+    {
+      "slug": "0568-trubbish",
+      "title": "0568 - Trubbish",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0568%20-%20Trubbish/1-400.webp",
+      "print_time": "4:24",
+      "total_weight_grams": 79.5,
+      "entitled": false
+    },
+    {
+      "slug": "0121-starmie",
+      "title": "0121 - Starmie",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0121%20-%20Starmie/1-400.webp",
+      "print_time": "4:15",
+      "total_weight_grams": 87.26,
+      "entitled": false
+    },
+    {
+      "slug": "0959-tinkaton",
+      "title": "0959 - Tinkaton",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0959%20-%20Tinkaton/1-400.webp",
+      "print_time": "16:16",
+      "total_weight_grams": 309.16,
+      "entitled": false
+    },
+    {
+      "slug": "0120-staryu",
+      "title": "0120 - Staryu",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0120%20-%20Staryu/1-400.webp",
+      "print_time": "4:40",
+      "total_weight_grams": 92.18,
+      "entitled": false
+    },
+    {
+      "slug": "0009-mega-blastoise",
+      "title": "0009 - Mega Blastoise",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0009%20Mega%20Blastoise%20-%20V1/1-400.webp",
+      "print_time": "7.33",
+      "total_weight_grams": 132.48,
+      "entitled": false
+    },
+    {
+      "slug": "0172-pichu",
+      "title": "0172 - Pichu",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0172%20Pichu%20-%20v1/1-400.webp",
+      "print_time": "4:19",
+      "total_weight_grams": 94.14,
+      "entitled": false
+    },
+    {
+      "slug": "0099-kingler",
+      "title": "0099 - Kingler",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0099%20-%20Kingler/1-400.webp",
+      "print_time": "06:19",
+      "total_weight_grams": 117.8,
+      "entitled": false
+    },
+    {
+      "slug": "0098-krabby",
+      "title": "0098 - Krabby",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0098%20-%20Krabby%20-%20V1/1-400.webp",
+      "print_time": "5:07",
+      "total_weight_grams": 99.52,
+      "entitled": false
+    },
+    {
+      "slug": "0257-blaziken",
+      "title": "0257 - Blaziken",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0257%20-%20Blaziken%20-%20V1/1-400.webp",
+      "print_time": "6:13",
+      "total_weight_grams": 118.2,
+      "entitled": false
+    },
+    {
+      "slug": "0125-electabuzz",
+      "title": "0125 - Electabuzz",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0125%20-%20Electabuzz%20-%20V1/1-400.webp",
+      "print_time": "4:59",
+      "total_weight_grams": 94.11,
+      "entitled": true
+    },
+    {
+      "slug": "0081-magnemite",
+      "title": "0081 - Magnemite",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0081%20-%20Magnemite%20-%20V1/1-400.webp",
+      "print_time": "5:20",
+      "total_weight_grams": 102.54,
+      "entitled": true
+    },
+    {
+      "slug": "0001-bulbasaur-halloween",
+      "title": "0001 - Bulbasaur - Halloween",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20Halloween%20-%20V1/1-400.webp",
+      "print_time": "5:58",
+      "total_weight_grams": 111.56,
+      "entitled": true
+    },
+    {
+      "slug": "0008-wartortle",
+      "title": "0008 - Wartortle",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0008%20-%20Wartortle%20-%20V1.1/1-400.webp",
+      "print_time": "5:36",
+      "total_weight_grams": 109.96,
+      "entitled": false
+    },
+    {
+      "slug": "0002-ivysaur",
+      "title": "0002 - Ivysaur",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0002%20-%20Ivysaur%20-%20V2.1/1-400.webp",
+      "print_time": "7:17",
+      "total_weight_grams": 117.66,
+      "entitled": false
+    },
+    {
+      "slug": "0658-ash-greninja",
+      "title": "0658 - Ash-Greninja",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0658%20Ash-Greninja%20-%20V1/1-400.webp",
+      "print_time": "4:12",
+      "total_weight_grams": 130.71,
+      "entitled": true
+    },
+    {
+      "slug": "0382-kyogre",
+      "title": "0382 - Kyogre",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0382%20-%20Kyogre%20-%20V1.1/1-400.webp",
+      "print_time": "8:37",
+      "total_weight_grams": 145.06,
+      "entitled": false
+    },
+    {
+      "slug": "0091-cloyster",
+      "title": "0091 - Cloyster",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0091%20Cloyster%20-%20V1/1-400.webp",
+      "print_time": "6:44",
+      "total_weight_grams": 110.93,
+      "entitled": false
+    },
+    {
+      "slug": "0001-bulbasaur-christmas",
+      "title": "0001 - Bulbasaur - Christmas",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20Christmas%20-%20V1/1-400.webp",
+      "print_time": "6:58:07",
+      "total_weight_grams": 150.89,
+      "entitled": true
+    },
+    {
+      "slug": "0090-shelder",
+      "title": "0090 - Shellder",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0090%20-%20Shelder%20-%20V1.1/1-400.webp",
+      "print_time": "6:06",
+      "total_weight_grams": 118.01,
+      "entitled": false
+    },
+    {
+      "slug": "0004-charmander",
+      "title": "0004 - Charmander",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0004%20-%20Charmander%20-%20V2/1-400.webp",
+      "print_time": "5:05",
+      "total_weight_grams": 93.65,
+      "entitled": true
+    },
+    {
+      "slug": "0054-psyduck",
+      "title": "0054 - Psyduck",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0054%20-%20Psyduck%20-%20V1/1-400.webp",
+      "print_time": "4:30",
+      "total_weight_grams": 89.17,
+      "entitled": false
+    },
+    {
+      "slug": "0162-furret",
+      "title": "0162 - Furret",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0162%20-%20Furret%20-%20V1/1-400.webp",
+      "print_time": "4:33",
+      "total_weight_grams": 96.06,
+      "entitled": false
+    },
+    {
+      "slug": "0059-arcanine",
+      "title": "0059 - Arcanine",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0059%20-%20Arcanine%20-%20V1.1/1-400.webp",
+      "print_time": "8:16",
+      "total_weight_grams": 148.86,
+      "entitled": false
+    },
+    {
+      "slug": "0373-salamence",
+      "title": "0373 - Salamence",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0373%20-%20Salamence%20-%20V1/1-400.webp",
+      "print_time": "6:18",
+      "total_weight_grams": 108.64,
+      "entitled": false
+    },
+    {
+      "slug": "0937-ceruledge",
+      "title": "0937 - Ceruledge",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0937%20-%20Ceruledge%20-%20V1/1-400.webp",
+      "print_time": "7:16",
+      "total_weight_grams": 131.54,
+      "entitled": false
+    },
+    {
+      "slug": "0103-exeggutor",
+      "title": "0103 - Exeggutor",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0103%20-%20Exeggutor%20-%20V1/1-400.webp",
+      "print_time": "5:19",
+      "total_weight_grams": 104.33,
+      "entitled": false
+    },
+    {
+      "slug": "0700-sylveon",
+      "title": "0700 - Sylveon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0700%20-%20Sylveon%20-%20V2.1/1-400.webp",
+      "print_time": "6:35",
+      "total_weight_grams": 112.33,
+      "entitled": false
+    },
+    {
+      "slug": "0102-exeggcute",
+      "title": "0102 - Exeggcute",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0102%20-%20Exeggcute%20-%20V1/1-400.webp",
+      "print_time": "5:01",
+      "total_weight_grams": 100.48,
+      "entitled": false
+    },
+    {
+      "slug": "0071-victreebel",
+      "title": "0071 - Victreebel",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0071%20-%20Victreebel%20-%20V1/1-400.webp",
+      "print_time": "7:05",
+      "total_weight_grams": 119.43,
+      "entitled": false
+    },
+    {
+      "slug": "0063-abra",
+      "title": "0063 - Abra",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0063%20-%20Abra%20V2.1/1-400.webp",
+      "print_time": "4:35",
+      "total_weight_grams": 97.95,
+      "entitled": false
+    },
+    {
+      "slug": "0152-chikorita",
+      "title": "0152 - Chikorita",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0152%20-%20Chikorita%20-%20V1/1-400.webp",
+      "print_time": "4:03",
+      "total_weight_grams": 78.16,
+      "entitled": true
+    },
+    {
+      "slug": "0070-weepinbell",
+      "title": "0070 - Weepinbell",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0070%20%20-%20Weepinbell%20-%20AMS%20Prodile%20-%20V1/1-400.webp",
+      "print_time": "5:47",
+      "total_weight_grams": 103.02,
+      "entitled": false
+    },
+    {
+      "slug": "0069-bellsprout",
+      "title": "0069 - Bellsprout",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0069%20-%20Bellsprout%20-%20V1/1-400.webp",
+      "print_time": "4:16",
+      "total_weight_grams": 85.5,
+      "entitled": false
+    },
+    {
+      "slug": "0128-tauros",
+      "title": "0128 - Tauros",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0128%20-%20Tauros%20-%20V1/1-400.webp",
+      "print_time": "4:38",
+      "total_weight_grams": 90.25,
+      "entitled": false
+    },
+    {
+      "slug": "0005-charmeleon",
+      "title": "0005 - Charmeleon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0005%20-%20Charmeleon%20-%20V1/1-400.webp",
+      "print_time": "4:35",
+      "total_weight_grams": 89.84,
+      "entitled": false
+    },
+    {
+      "slug": "0194-wooper",
+      "title": "0194 - Wooper",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0194%20-%20Wooper%20-%20V1/1-400.webp",
+      "print_time": "3:56",
+      "total_weight_grams": 79.51,
+      "entitled": false
+    },
+    {
+      "slug": "0448-mega-lucario",
+      "title": "0448 - Mega Lucario",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0448%20-%20Mega%20Lucario%20-%20V1/1-400.webp",
+      "print_time": "8:45",
+      "total_weight_grams": 146.33,
+      "entitled": false
+    },
+    {
+      "slug": "0381-latios",
+      "title": "0381 - Latios",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0381%20-%20Latios%20-%20V1/1-400.webp",
+      "print_time": "5:29",
+      "total_weight_grams": 102.92,
+      "entitled": false
+    },
+    {
+      "slug": "0380-latias",
+      "title": "0380 - Latias",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0380%20-%20Latias%20-%20V1/1-400.webp",
+      "print_time": "5:21",
+      "total_weight_grams": 103.48,
+      "entitled": false
+    },
+    {
+      "slug": "0062-poliwrath",
+      "title": "0062 - Poliwrath",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0062%20-%20Poliwrath%20-%20V1/1-400.webp",
+      "print_time": "4:51",
+      "total_weight_grams": 93.82,
+      "entitled": false
+    },
+    {
+      "slug": "0061-poliwhirl",
+      "title": "0061 - Poliwhirl",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0061%20-%20Poliwhirl%20-%20V1/1-400.webp",
+      "print_time": "4:23",
+      "total_weight_grams": 90.71,
+      "entitled": false
+    },
+    {
+      "slug": "0887-dragapult",
+      "title": "0887 - Dragapult",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0887%20-%20Dragapult%20-%20V1.1/1-400.webp",
+      "print_time": "7:31",
+      "total_weight_grams": 111.26,
+      "entitled": false
+    },
+    {
+      "slug": "0026-mega-raichu-x",
+      "title": "0026 - Mega Raichu X",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0026%20-%20Mega%20Raichu%20X%20-%20V1/1-400.webp",
+      "print_time": "4:27:17",
+      "total_weight_grams": 40.59,
+      "entitled": true
+    },
+    {
+      "slug": "0057-primeape",
+      "title": "0057 - Primeape",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0057%20-%20Primeape%20-%20V1/1-400.webp",
+      "print_time": "5:53",
+      "total_weight_grams": 105.19,
+      "entitled": false
+    },
+    {
+      "slug": "0056-mankey",
+      "title": "0056 - Mankey",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0056%20-%20Mankey%20-%20V1/1-400.webp",
+      "print_time": "4:38",
+      "total_weight_grams": 84.64,
+      "entitled": false
+    },
+    {
+      "slug": "0026-mega-raichu-y",
+      "title": "0026 - Mega Raichu Y",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0026%20-%20Mega%20Raichu%20Y%20-%20V1/1-400.webp",
+      "print_time": "4:49",
+      "total_weight_grams": 96,
+      "entitled": false
+    },
+    {
+      "slug": "0484-palkia",
+      "title": "0484 - Palkia",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0484%20-%20Palkia%20-%20V1/1-400.webp",
+      "print_time": "6:50",
+      "total_weight_grams": 117.64,
+      "entitled": false
+    },
+    {
+      "slug": "0068-machamp",
+      "title": "0068 - Machamp",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0068%20-%20Machamp%20-%20V1/1-400.webp",
+      "print_time": "6:13",
+      "total_weight_grams": 114.19,
+      "entitled": false
+    },
+    {
+      "slug": "0067-machoke",
+      "title": "0067 - Machoke",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0067%20-%20Machoke%20-%20V1/1-400.webp",
+      "print_time": "6:06",
+      "total_weight_grams": 106.78,
+      "entitled": false
+    },
+    {
+      "slug": "0066-machop",
+      "title": "0066 - Machop",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0066%20-%20Machop%20-%20V1/1-400.webp",
+      "print_time": "4:00",
+      "total_weight_grams": 83.61,
+      "entitled": false
+    },
+    {
+      "slug": "0251-celebi",
+      "title": "0251 - Celebi",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0251%20-%20Celebi%20-%20V1/1-400.webp",
+      "print_time": "4:57",
+      "total_weight_grams": 99.41,
+      "entitled": false
+    },
+    {
+      "slug": "0158-totodile",
+      "title": "0158 - Totodile",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0158%20-%20Totodile%20-%20V1/1-400.webp",
+      "print_time": "4:44",
+      "total_weight_grams": 84.43,
+      "entitled": true
+    },
+    {
+      "slug": "0051-dugtrio",
+      "title": "0051 - Dugtrio",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0051%20-%20Dugtrio%20-%20V1/1-400.webp",
+      "print_time": "5:31",
+      "total_weight_grams": 94.67,
+      "entitled": false
+    },
+    {
+      "slug": "0123-scyther",
+      "title": "0123 - Scyther",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0123%20-%20Scyther%20-%20V1.1/1-400.webp",
+      "print_time": "5:05",
+      "total_weight_grams": 96.12,
+      "entitled": false
+    },
+    {
+      "slug": "0376-metagross",
+      "title": "0376 - Metagross",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0376%20-%20Metagross%20-%20V1/1-400.webp",
+      "print_time": "5:45",
+      "total_weight_grams": 101.26,
+      "entitled": false
+    },
+    {
+      "slug": "0050-diglett",
+      "title": "0050 - Diglett",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0050%20-%20Diglett%20-%20V1.1/1-400.webp",
+      "print_time": "5:19",
+      "total_weight_grams": 99.96,
+      "entitled": false
+    },
+    {
+      "slug": "0094-mega-gengar",
+      "title": "0094 - Mega Gengar",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0094%20-%20Mega%20Gengar%20-%20V1/1-400.webp",
+      "print_time": "7:34",
+      "total_weight_grams": 117.81,
+      "entitled": true
+    },
+    {
+      "slug": "0644-zekrom",
+      "title": "0644 - Zekrom",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0644%20-%20Zekrom%20-%20V1.1/1-400.webp",
+      "print_time": "7:10",
+      "total_weight_grams": 124.75,
+      "entitled": false
+    },
+    {
+      "slug": "0445-garchomp",
+      "title": "0445 - Garchomp",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0445%20-%20Garchomp%20-%20V1/1-400.webp",
+      "print_time": "5:55",
+      "total_weight_grams": 115.62,
+      "entitled": false
+    },
+    {
+      "slug": "0483-dialga",
+      "title": "0483 - Dialga",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0483%20-%20Dialga%20-%20V1/1-400.webp",
+      "print_time": "7:16",
+      "total_weight_grams": 144.08,
+      "entitled": false
+    },
+    {
+      "slug": "0248-tyranitar",
+      "title": "0248 - Tyranitar",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0248%20-%20Tyranitar%20-%20V1.1/1-400.webp",
+      "print_time": "4:50",
+      "total_weight_grams": 88.41,
+      "entitled": true
+    },
+    {
+      "slug": "0243-raikou",
+      "title": "0243 - Raikou",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0243%20-%20Raikou%20-%20V2.1/1-400.webp",
+      "print_time": "6:50",
+      "total_weight_grams": 117,
+      "entitled": false
+    },
+    {
+      "slug": "0155-cyndaquil",
+      "title": "0155 - Cyndaquil",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0155%20-%20Cyndaquil%20-%20V1.1/1-400.webp",
+      "print_time": "7:48",
+      "total_weight_grams": 120.18,
+      "entitled": false
+    },
+    {
+      "slug": "0006-mega-charizard-x",
+      "title": "0006 - Mega Charizard X",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20-%20Mega%20Charizard%20X%20-%20V1.1/1-400.webp",
+      "print_time": "6:13",
+      "total_weight_grams": 113.62,
+      "entitled": false
+    },
+    {
+      "slug": "0359-absol",
+      "title": "0359 - Absol",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0359%20-%20Absol%20-%20V1.1/1-400.webp",
+      "print_time": "4:38",
+      "total_weight_grams": 98.13,
+      "entitled": false
+    },
+    {
+      "slug": "0393-piplup",
+      "title": "0393 - Piplup",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0393%20-%20Piplup%20-%20V1.1/1-400.webp",
+      "print_time": "4:28",
+      "total_weight_grams": 88.54,
+      "entitled": false
+    },
+    {
+      "slug": "0493-arceus",
+      "title": "0493 - Arceus",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0493%20-%20Arceus%20-%20V1.1/1-400.webp",
+      "print_time": "6:34",
+      "total_weight_grams": 115.8,
+      "entitled": false
+    },
+    {
+      "slug": "0049-venomoth",
+      "title": "0049 - Venomoth",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0049%20-%20Venomoth%20-%20V1.1/1-400.webp",
+      "print_time": "5:24",
+      "total_weight_grams": 102.63,
+      "entitled": false
+    },
+    {
+      "slug": "0105-marowak",
+      "title": "0105 - Marowak",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0105%20-%20Marowak%20-%20V1.1/1-400.webp",
+      "print_time": "5:42",
+      "total_weight_grams": 125.88,
+      "entitled": false
+    },
+    {
+      "slug": "0048-venonat",
+      "title": "0048 - Venonat",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0048%20-%20Venonat%20-%20V1.1/1-400.webp",
+      "print_time": "4:31",
+      "total_weight_grams": 80.41,
+      "entitled": false
+    },
+    {
+      "slug": "0047-parasect",
+      "title": "0047 - Parasect",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0047%20-%20Parasect%20-%20V1/1-400.webp",
+      "print_time": "6:41",
+      "total_weight_grams": 134.95,
+      "entitled": false
+    },
+    {
+      "slug": "0245-suicune",
+      "title": "0245 - Suicune",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0245%20-%20Suicune%20-%20V1/1-400.webp",
+      "print_time": "6:08",
+      "total_weight_grams": 122.68,
+      "entitled": false
+    },
+    {
+      "slug": "0060-poliwag",
+      "title": "0060 - Poliwag",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0060%20-%20Poliwag%20-%20V1/1-400.webp",
+      "print_time": "4:12",
+      "total_weight_grams": 84.81,
+      "entitled": true
+    },
+    {
+      "slug": "0046-paras",
+      "title": "0046 - Paras",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0046%20-%20Paras%20-%20V1.1/1-400.webp",
+      "print_time": "6:20",
+      "total_weight_grams": 115.82,
+      "entitled": false
+    },
+    {
+      "slug": "0104-cubone",
+      "title": "0104 - Cubone",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0104%20-%20Cubone%20-%20V2.1/1-400.webp",
+      "print_time": "6:57",
+      "total_weight_grams": 129.09,
+      "entitled": true
+    },
+    {
+      "slug": "0131-lapras",
+      "title": "0131 - Lapras",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0131%20-%20Lapras%20-%20V1.1/1-400.webp",
+      "print_time": "5:58",
+      "total_weight_grams": 117.36,
+      "entitled": true
+    },
+    {
+      "slug": "0146-moltres",
+      "title": "0146 - Moltres",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0146%20-%20Moltres%20-%20V1.1/1-400.webp",
+      "print_time": "7:53",
+      "total_weight_grams": 139.93,
+      "entitled": false
+    },
+    {
+      "slug": "0101-electrode",
+      "title": "0101 - Electrode",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0101%20-%20Electrode%20-%20V1/1-400.webp",
+      "print_time": "3:01",
+      "total_weight_grams": 71.1,
+      "entitled": false
+    },
+    {
+      "slug": "0038-ninetales",
+      "title": "0038 - Ninetales",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0038%20-%20Ninetails%20-%20V1.1/1-400.webp",
+      "print_time": "7:46",
+      "total_weight_grams": 150.97,
+      "entitled": true
+    },
+    {
+      "slug": "0100-voltorb",
+      "title": "0100 - Voltorb",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0100%20-%20Voltorb%20-%20V1/1-400.webp",
+      "print_time": "2:53",
+      "total_weight_grams": 65.91,
+      "entitled": false
+    },
+    {
+      "slug": "0037-vulpix",
+      "title": "0037 - Vulpix",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0037%20-%20Vulpix%20-%20V1/1-400.webp",
+      "print_time": "7:20",
+      "total_weight_grams": 138.18,
+      "entitled": true
+    },
+    {
+      "slug": "0282-gardevoir",
+      "title": "0282 - Gardevoir",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0282%20-%20Gardivoir%20-%20%20V1.1/1-400.webp",
+      "print_time": "5:52",
+      "total_weight_grams": 118.81,
+      "entitled": false
+    },
+    {
+      "slug": "0491-darkrai",
+      "title": "0491 - Darkrai",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0491%20-%20Darkrai%20-%20V1.2/1-400.webp",
+      "print_time": "5:06",
+      "total_weight_grams": 122.93,
+      "entitled": false
+    },
+    {
+      "slug": "0385-jirachi",
+      "title": "0385 - Jirachi",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0385%20Jirachi%20-%20V2/3-400.webp",
+      "print_time": "4:31",
+      "total_weight_grams": 96.35,
+      "entitled": false
+    },
+    {
+      "slug": "0250-ho-oh",
+      "title": "0250 - Ho Oh",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0250%20-%20Ho%20Oh%20-%20V1.1/1-400.webp",
+      "print_time": "7:38",
+      "total_weight_grams": 136.58,
+      "entitled": false
+    },
+    {
+      "slug": "0244-entei",
+      "title": "0244 - Entei",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0244%20-%20Entei%20-%20V2.1/1-400.webp",
+      "print_time": "7:05",
+      "total_weight_grams": 120.41,
+      "entitled": false
+    },
+    {
+      "slug": "0145-zapdos",
+      "title": "0145 - Zapdos",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0145%20-%20Zapdos%20-%20V1.1/1-400.webp",
+      "print_time": "7:23",
+      "total_weight_grams": 111.53,
+      "entitled": false
+    },
+    {
+      "slug": "0041-zubat",
+      "title": "0041 - Zubat",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0041%20-%20Zubat%20-%20V1.1/1-400.webp",
+      "print_time": "4:24",
+      "total_weight_grams": 94.34,
+      "entitled": true
+    },
+    {
+      "slug": "0040-wigglytuff",
+      "title": "0040 - Wigglytuff",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0040%20-%20Wigglypuff%20-%20V1.1/1-400.webp",
+      "print_time": "4:05",
+      "total_weight_grams": 81.86,
+      "entitled": true
+    },
+    {
+      "slug": "0036-clefable",
+      "title": "0036 - Clefable",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0036%20-%20Clefable%20-%20V1.1/1-400.webp",
+      "print_time": "4:19",
+      "total_weight_grams": 87.73,
+      "entitled": false
+    },
+    {
+      "slug": "0035-clefairy",
+      "title": "0035 - Clefairy",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0035%20-%20Clefairy%20-%20V1.2/1-400.webp",
+      "print_time": "4:10",
+      "total_weight_grams": 85.4,
+      "entitled": false
+    },
+    {
+      "slug": "0658-greninja",
+      "title": "0658 - Greninja",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0658%20-%20Greninja%20-%20V1.1/1-400.webp",
+      "print_time": "6:53",
+      "total_weight_grams": 120.5,
+      "entitled": true
+    },
+    {
+      "slug": "0043-oddish",
+      "title": "0043 - Oddish",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0043%20-%20Oddish%20-%20V1/1-400.webp",
+      "print_time": "4:19",
+      "total_weight_grams": 80.18,
+      "entitled": true
+    },
+    {
+      "slug": "0144-articuno",
+      "title": "0144 - Articuno",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0144%20-%20Articuno%20-%20V1.1/1-400.webp",
+      "print_time": "5:58",
+      "total_weight_grams": 112.61,
+      "entitled": false
+    },
+    {
+      "slug": "0175-togepi",
+      "title": "0175 - Togepi",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0175%20-%20Togepi%20-%20V2.1/1-400.webp",
+      "print_time": "5:26",
+      "total_weight_grams": 96.08,
+      "entitled": false
+    },
+    {
+      "slug": "0127-pinsir",
+      "title": "0127 - Pinsir",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0127%20-%20Pinsir%20-%20V1/1-400.webp",
+      "print_time": "5:13",
+      "total_weight_grams": 105.72,
+      "entitled": true
+    },
+    {
+      "slug": "0110-weezing",
+      "title": "0110 - Weezing",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0110%20-%20Weezing%20-%20V1.1/1-400.webp",
+      "print_time": "4:36",
+      "total_weight_grams": 90.3,
+      "entitled": false
+    },
+    {
+      "slug": "0109-koffing",
+      "title": "0109 - Koffing",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0109%20-%20Koffing%20-%20V1.1/1-400.webp",
+      "print_time": "4:01",
+      "total_weight_grams": 76.99,
+      "entitled": false
+    },
+    {
+      "slug": "0082-magneton",
+      "title": "0082 - Magneton",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0082%20Magneton%20-%20V1.1/1-400.webp",
+      "print_time": "7:13",
+      "total_weight_grams": 139.54,
+      "entitled": false
+    },
+    {
+      "slug": "0044-gloom",
+      "title": "0044 - Gloom",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0044%20-%20Gloom%20-%20V1.1/1-400.webp",
+      "print_time": "4:52",
+      "total_weight_grams": 106.52,
+      "entitled": false
+    },
+    {
+      "slug": "0034-nidoking",
+      "title": "0034 - Nidoking",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0034%20-%20Nidoking%20-%20V1.1/1-400.webp",
+      "print_time": "5:26",
+      "total_weight_grams": 97.85,
+      "entitled": false
+    },
+    {
+      "slug": "0033-nidorino",
+      "title": "0033 - Nidorino",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0033%20-%20Nidorino%20-%20V1.1/1-400.webp",
+      "print_time": "4:22",
+      "total_weight_grams": 83.79,
+      "entitled": false
+    },
+    {
+      "slug": "0032-nidoran",
+      "title": "0032 - Nidoran\u2642",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0032%20-%20Nidoran%20-%20V1.1/1-400.webp",
+      "print_time": "5:02",
+      "total_weight_grams": 89.73,
+      "entitled": false
+    },
+    {
+      "slug": "0045-vileplume",
+      "title": "0045 - Vileplume",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0045%20-%20Vileplume%20-%20V1.1/1-400.webp",
+      "print_time": "5:56",
+      "total_weight_grams": 113.8,
+      "entitled": false
+    },
+    {
+      "slug": "0039-jigglypuff",
+      "title": "0039 - Jigglypuff",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0039%20-%20Jigglypuff%20-%20V1/1-400.webp",
+      "print_time": "4:31",
+      "total_weight_grams": 85.06,
+      "entitled": true
+    },
+    {
+      "slug": "0471-glaceon",
+      "title": "0471 - Glaceon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0471%20-%20Glaceon%20-%20V2.1/1-400.webp",
+      "print_time": "5:05",
+      "total_weight_grams": 98.01,
+      "entitled": false
+    },
+    {
+      "slug": "0053-persian",
+      "title": "0053 - Persian",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0053%20-%20Persian%20-%20V1/1-400.webp",
+      "print_time": "4:34",
+      "total_weight_grams": 90.58,
+      "entitled": false
+    },
+    {
+      "slug": "0031-nidoqueen",
+      "title": "0031 - Nidoqueen",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0031%20-%20Nidoqueen%20-%20V1.1/1-400.webp",
+      "print_time": "5:40",
+      "total_weight_grams": 108,
+      "entitled": false
+    },
+    {
+      "slug": "0030-nidorina",
+      "title": "0030 - Nidorina",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0030%20-%20Nidorina%20-%20V1.1/1-400.webp",
+      "print_time": "5:11",
+      "total_weight_grams": 98.3,
+      "entitled": false
+    },
+    {
+      "slug": "0113-chansey",
+      "title": "0113 - Chansey",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0113%20-%20Chansey%20-%20V2.1/1-400.webp",
+      "print_time": "4:11",
+      "total_weight_grams": 83.75,
+      "entitled": false
+    },
+    {
+      "slug": "0384-rayquaza",
+      "title": "0384 - Rayquaza",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0384%20-%20Rayquaza%20-%20V3.1/1-400.webp",
+      "print_time": "5:37",
+      "total_weight_grams": 106.45,
+      "entitled": true
+    },
+    {
+      "slug": "0132-ditto",
+      "title": "0132 - Ditto",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0132%20-%20Ditto%20-%20V1.1/1-400.webp",
+      "print_time": "2:55",
+      "total_weight_grams": 68.61,
+      "entitled": false
+    },
+    {
+      "slug": "0197-umbreon",
+      "title": "0197 - Umbreon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0197%20-%20Umbreon%20-%20V1/1-400.webp",
+      "print_time": "5:10",
+      "total_weight_grams": 101.89,
+      "entitled": false
+    },
+    {
+      "slug": "0150-mewtwo",
+      "title": "0150 - Mewtwo",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0150%20-%20Mewtwo%20-%20V2.1/1-400.webp",
+      "print_time": "5:17",
+      "total_weight_grams": 97.7,
+      "entitled": false
+    },
+    {
+      "slug": "0143-snorlax",
+      "title": "0143 - Snorlax",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0143%20-%20Snorlax/1-400.webp",
+      "print_time": "4:27",
+      "total_weight_grams": 85.74,
+      "entitled": true
+    },
+    {
+      "slug": "0470-leafeon",
+      "title": "0470 - Leafeon",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0470%20-%20Leafeon%20-%20V1.1/1-400.webp",
+      "print_time": "4:42",
+      "total_weight_grams": 89.78,
+      "entitled": false
+    },
+    {
+      "slug": "0249-lugia",
+      "title": "0249 - Lugia",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0249%20-%20Lugia%20-%20V1/1-400.webp",
+      "print_time": "5:28",
+      "total_weight_grams": 108.36,
+      "entitled": true
+    },
+    {
+      "slug": "0383-groudon",
+      "title": "0383 - Groudon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0383%20-%20Groudon%20-%20V1.1/1-400.webp",
+      "print_time": "5:26",
+      "total_weight_grams": 97.91,
+      "entitled": false
+    },
+    {
+      "slug": "0018-pidgeot",
+      "title": "0018 - Pidgeot",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0018-%20Pidgeot%20-%20V1/1-400.webp",
+      "print_time": "4:38:50",
+      "total_weight_grams": 51.83,
+      "entitled": false
+    },
+    {
+      "slug": "0149-dragonite",
+      "title": "0149 - Dragonite",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0149%20-%20Dragonite%20-%20V1/1-400.webp",
+      "print_time": "5:10",
+      "total_weight_grams": 96.95,
+      "entitled": true
+    },
+    {
+      "slug": "0012-butterfree",
+      "title": "0012 - Butterfree",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0012%20-%20Butterfree%20-%20V1.1/1-400.webp",
+      "print_time": "5:13",
+      "total_weight_grams": 106.08,
+      "entitled": true
+    },
+    {
+      "slug": "0136-flareon",
+      "title": "0136 - Flareon",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0136%20-%20Flareon%20-%20V1.1/1-400.webp",
+      "print_time": "6:39",
+      "total_weight_grams": 128.32,
+      "entitled": false
+    },
+    {
+      "slug": "0148-dragonair",
+      "title": "0148 - Dragonair",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0148%20-%20Dragonair%20-%20V1.1/1-400.webp",
+      "print_time": "4:53",
+      "total_weight_grams": 93.77,
+      "entitled": false
+    },
+    {
+      "slug": "0064-kadabra",
+      "title": "0064 - Kadabra",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0064%20-%20Kadabra%20-%20V1/1-400.webp",
+      "print_time": "4:25",
+      "total_weight_grams": 94.04,
+      "entitled": false
+    },
+    {
+      "slug": "0007-squirtle",
+      "title": "0007 - Squirtle",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0007%20-%20Squirtle%20-%20V2/1-400.webp",
+      "print_time": "0:15:44",
+      "total_weight_grams": 92,
+      "entitled": true
+    },
+    {
+      "slug": "0094-gengar",
+      "title": "0094 - Gengar",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0094%20-%20Gengar%20-%20V1/1-400.webp",
+      "print_time": "11:56",
+      "total_weight_grams": 94.97,
+      "entitled": false
+    },
+    {
+      "slug": "0196-espeon",
+      "title": "0196 - Espeon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0196%20-%20Espeon%20-%20V1.1/1-400.webp",
+      "print_time": "5:11",
+      "total_weight_grams": 95.54,
+      "entitled": false
+    },
+    {
+      "slug": "0011-metapod",
+      "title": "0011 - Metapod",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0011%20-%20Metapod%20-%20V1/1-400.webp",
+      "print_time": "4:00",
+      "total_weight_grams": 82.87,
+      "entitled": false
+    },
+    {
+      "slug": "0020-raticate",
+      "title": "0020 - Raticate",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0020%20-%20Raticate%20-V1/1-400.webp",
+      "print_time": "4:17:19",
+      "total_weight_grams": 100.37,
+      "entitled": false
+    },
+    {
+      "slug": "0010-caterpie",
+      "title": "0010 - Caterpie",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0010%20-%20Caterpie%20-%20V2/1-400.webp",
+      "print_time": "4:18",
+      "total_weight_grams": 85.12,
+      "entitled": true
+    },
+    {
+      "slug": "0052-meowth",
+      "title": "0052 - Meowth",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0052%20-%20Meowth%20-%20V1/1-400.webp",
+      "print_time": "4:39",
+      "total_weight_grams": 93.05,
+      "entitled": true
+    },
+    {
+      "slug": "0065-alakazam",
+      "title": "0065 - Alakazam",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0065%20-%20Alakazam%20-%20V1/1-400.webp",
+      "print_time": "4:36",
+      "total_weight_grams": 101.72,
+      "entitled": false
+    },
+    {
+      "slug": "0133-eevee",
+      "title": "0133 - Eevee",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0133%20-%20Eevee%20-%20V4/1-400.webp",
+      "print_time": "5:32",
+      "total_weight_grams": 103.71,
+      "entitled": true
+    },
+    {
+      "slug": "0014-kakuna",
+      "title": "0014 - Kakuna",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0014%20-%20Kakuna%20-%20V1/1-400.webp",
+      "print_time": "4:51",
+      "total_weight_grams": 98.61,
+      "entitled": false
+    },
+    {
+      "slug": "0026-raichu",
+      "title": "0026 - Raichu",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0026%20-%20Raichu%20-%20V2.1/1-400.webp",
+      "print_time": "4:21",
+      "total_weight_grams": 90.96,
+      "entitled": false
+    },
+    {
+      "slug": "0055-golduck",
+      "title": "0055 - Golduck",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0055%20-%20Golduck%20-%20V1/1-400.webp",
+      "print_time": "5:01",
+      "total_weight_grams": 100.55,
+      "entitled": false
+    },
+    {
+      "slug": "0017-pidgeotto",
+      "title": "0017 - Pidgeotto",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0017%20-%20Pidgeotto%20-%20V1/1-400.webp",
+      "print_time": "6:18",
+      "total_weight_grams": 114.53,
+      "entitled": false
+    },
+    {
+      "slug": "0029-nidoran",
+      "title": "0029 - Nidoran\u2640",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0029%20-%20Nidoran%20-%20V1.1/1-400.webp",
+      "print_time": "4:28",
+      "total_weight_grams": 85.43,
+      "entitled": false
+    },
+    {
+      "slug": "0025-pikachu-female",
+      "title": "0025 - Pikachu - Female",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0025%20-%20Female%20Pikachu%20-%20V1/1-400.webp",
+      "print_time": "4:09:39",
+      "total_weight_grams": 92.51,
+      "entitled": true
+    },
+    {
+      "slug": "0147-dratini",
+      "title": "0147 - Dratini",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0147%20-%20Dratini%20-%20V1.1/1-400.webp",
+      "print_time": "4:58",
+      "total_weight_grams": 100.36,
+      "entitled": false
+    },
+    {
+      "slug": "0028-sandslash",
+      "title": "0028 - Sandslash",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0028%20-%20Sandslash%20-%20V1.1/1-400.webp",
+      "print_time": "7:35",
+      "total_weight_grams": 145.34,
+      "entitled": false
+    },
+    {
+      "slug": "0129-magikarp",
+      "title": "0129 - Magikarp",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0129%20-%20Magikarp%20-%20V1/1-400.webp",
+      "print_time": "4:19",
+      "total_weight_grams": 87.24,
+      "entitled": false
+    },
+    {
+      "slug": "0013-weedle",
+      "title": "0013 - Weedle",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0013%20-%20Weedle%20-%20V1/1-400.webp",
+      "print_time": "4:13",
+      "total_weight_grams": 85.73,
+      "entitled": false
+    },
+    {
+      "slug": "0024-arbok",
+      "title": "0024 - Arbok",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0024%20-%20Arbok%20-%20V1.1/1-400.webp",
+      "print_time": "5:06",
+      "total_weight_grams": 97.8,
+      "entitled": false
+    },
+    {
+      "slug": "0095-onix",
+      "title": "0095 - Onix",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0095%20-%20Onix%20-%20V2/1-400.webp",
+      "print_time": "5:51",
+      "total_weight_grams": 125.92,
+      "entitled": false
+    },
+    {
+      "slug": "0021-spearow",
+      "title": "0021 - Spearow",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0021%20-%20Spearow%20-%20V1/1-400.webp",
+      "print_time": "6:03",
+      "total_weight_grams": 112.13,
+      "entitled": false
+    },
+    {
+      "slug": "0019-rattata",
+      "title": "0019 - Rattata",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0019%20-%20Rattata%20-%20V1/1-400.webp",
+      "print_time": "6:04",
+      "total_weight_grams": 120.12,
+      "entitled": false
+    },
+    {
+      "slug": "0027-sandshrew",
+      "title": "0027 - Sandshrew",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0027%20-%20Sandshrew%20-%20V2.1/1-400.webp",
+      "print_time": "3:56",
+      "total_weight_grams": 76.77,
+      "entitled": false
+    },
+    {
+      "slug": "0016-pidgey",
+      "title": "0016 - Pidgey",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0016%20-%20Pidgy%20-%20V1/1-400.webp",
+      "print_time": "4:30",
+      "total_weight_grams": 86.25,
+      "entitled": false
+    },
+    {
+      "slug": "0448-lucario",
+      "title": "0448 - Lucario",
+      "category": "character",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0448%20-%20Lucario%20-%20V1/1-400.webp",
+      "print_time": "5:06",
+      "total_weight_grams": 105.17,
+      "entitled": false
+    },
+    {
+      "slug": "0001-bulbasaur",
+      "title": "0001 - Bulbasaur",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20V3/1-400.webp",
+      "print_time": "4:18",
+      "total_weight_grams": 88.76,
+      "entitled": true
+    },
+    {
+      "slug": "0009-blastoise",
+      "title": "0009 - Blastoise",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0009%20-%20Blastoise%20-%20V2.1/1-400.webp",
+      "print_time": "5:50",
+      "total_weight_grams": 113.86,
+      "entitled": false
+    },
+    {
+      "slug": "0022-fearow",
+      "title": "0022 - Fearow",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0022%20-%20Fearow%20-%20V1/1-400.webp",
+      "print_time": "5:06",
+      "total_weight_grams": 94.19,
+      "entitled": false
+    },
+    {
+      "slug": "0134-vaporeon",
+      "title": "0134 - Vaporeon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0134%20-%20Vapereon%20-%20V1.1/1-400.webp",
+      "print_time": "6:07",
+      "total_weight_grams": 113.91,
+      "entitled": false
+    },
+    {
+      "slug": "0092-gastly",
+      "title": "0092 - Gastly",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0092%20-%20Gastly%20-%20V1.1/1-400.webp",
+      "print_time": "4:41",
+      "total_weight_grams": 102.42,
+      "entitled": false
+    },
+    {
+      "slug": "0023-ekans",
+      "title": "0023 - Ekans",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0023%20-%20Ekans%20-%20V1.1/1-400.webp",
+      "print_time": "4:02",
+      "total_weight_grams": 85.67,
+      "entitled": false
+    },
+    {
+      "slug": "0058-growlithe",
+      "title": "0058 - Growlithe",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0058%20-%20Growlithe%20-%20V1/1-400.webp",
+      "print_time": "5:47",
+      "total_weight_grams": 105.6,
+      "entitled": true
+    },
+    {
+      "slug": "0025-pikachu",
+      "title": "0025 - Pikachu",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0025%20-%20Pikachu%20-%20V3/1-400.webp",
+      "print_time": "4:15",
+      "total_weight_grams": 86.09,
+      "entitled": true
+    },
+    {
+      "slug": "0151-mew",
+      "title": "0151 - Mew",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0151%20-%20Mew%20-%20V2.1/1-400.webp",
+      "print_time": "3:01",
+      "total_weight_grams": 70.44,
+      "entitled": true
+    },
+    {
+      "slug": "0015-beedrill",
+      "title": "0015 - Beedrill",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0015%20-%20Beedrill%20-%20V2.1/1-400.webp",
+      "print_time": "5:33",
+      "total_weight_grams": 112.12,
+      "entitled": false
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 204,
+    "total": 204,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}
