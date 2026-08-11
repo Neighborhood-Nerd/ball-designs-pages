@@ -1,12 +1,243 @@
 {
   "data": [
     {
+      "slug": "0087-dewgong",
+      "title": "0087 - Dewgong",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0087%20-%20Dewgong%20-%20V1/1-400.webp",
+      "print_time": "5:47",
+      "total_weight_grams": 96.44,
+      "round": 25,
+      "entitled": true
+    },
+    {
+      "slug": "0086-seel",
+      "title": "0086 - Seel",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0086%20-%20Seel%20-%20V1/1-400.webp",
+      "print_time": "5:22",
+      "total_weight_grams": 107.7,
+      "round": 25,
+      "entitled": true
+    },
+    {
+      "slug": "0149-mega-dragonite",
+      "title": "0149 - Mega Dragonite",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0149%20-%20Mega%20Dragonite%20-%20V1/1-400.webp",
+      "print_time": "7:23",
+      "total_weight_grams": 119.37,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0139-omastar",
+      "title": "0139 - Omastar",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0139%20-%20Omastar%20-%20V1/1-400.webp",
+      "print_time": "5:32",
+      "total_weight_grams": 104.04,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0157-typhlosion",
+      "title": "0157 - Typhlosion",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0157%20-%20Typhlosion%20-%20V1/1-400.webp",
+      "print_time": "0:00:00",
+      "total_weight_grams": 106.31,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0112-rhydon",
+      "title": "0112 - Rhydon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0112%20-%20Rhydon%20-%20V1/1-400.webp",
+      "print_time": "5:02",
+      "total_weight_grams": 96.76,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0138-omanyte",
+      "title": "0138 - Omanyte",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0138%20-%20Omanyte%20-%20V1/1-400.webp",
+      "print_time": "4:42",
+      "total_weight_grams": 90.95,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0156-quilava",
+      "title": "0156 - Quilava",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-400.webp",
+      "print_time": "6:23",
+      "total_weight_grams": 105.36,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0395-empoleon",
+      "title": "0395 - Empoleon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0395%20-%20Empoleon%20-%20V1/1-400.webp",
+      "print_time": "6:15",
+      "total_weight_grams": 103.85,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0501-oshawott",
+      "title": "0501 - Oshawott",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0501%20-%20Oshawott%20-%20V1/1-400.webp",
+      "print_time": "3:47",
+      "total_weight_grams": 76.19,
+      "round": 24,
+      "entitled": true
+    },
+    {
+      "slug": "0447-riolu",
+      "title": "0447 - Riolu",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0447%20-%20Riolu%20-%20V1/1-400.webp",
+      "print_time": "4:26",
+      "total_weight_grams": 93.89,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "0392-infernape",
+      "title": "0392 - Infernape",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0392%20-%20Infernape%20-%20V1/1-400.webp",
+      "print_time": "7:26",
+      "total_weight_grams": 136.44,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0807-zeraora",
+      "title": "0807 - Zeraora",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0807%20-%20Zeraora%20-%20V1/1-400.webp",
+      "print_time": "7:14",
+      "total_weight_grams": 128.99,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0448-mega-lucario-z",
+      "title": "0448 - Mega Lucario Z",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0448%20-%20Mega%20Lucario%20Z%20-%20V1/1-400.webp",
+      "print_time": "7:29",
+      "total_weight_grams": 122.68,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0446-electivire",
+      "title": "0466 - Electivire",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0446%20-%20Electivire%20-%20V1/1-400.webp",
+      "print_time": "5:59",
+      "total_weight_grams": 116,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "iron-man",
+      "title": "Iron Man Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Iron%20Man%20-%20V1/1-400.webp",
+      "print_time": "6:33",
+      "total_weight_grams": 115.09,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "0114-tangela",
+      "title": "0114 - Tangela",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0114%20-%20Tangela%20-%20V1/1-400.webp",
+      "print_time": "5:31",
+      "total_weight_grams": 95.7,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0006-charizard-clone",
+      "title": "0006 - Charizard Clone",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20-%20Charizard%20Clone%20-%20V1/1-400.webp",
+      "print_time": "8:22",
+      "total_weight_grams": 137.53,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0009-blastoise-clone",
+      "title": "0009 - Blastoise Clone",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0009%20-%20Blastoise%20Clone%20-%20V1/1-400.webp",
+      "print_time": "6:59",
+      "total_weight_grams": 118.59,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0003-venusaur-clone",
+      "title": "0003 - Venusaur Clone",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0003%20-%20Venusaur%20Clone%20-%20V1/1-400.webp",
+      "print_time": "8:14",
+      "total_weight_grams": 130.21,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0239-elekid",
+      "title": "0239 - Elekid",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0239%20-%20Elekid%20-%20V1/1-400.webp",
+      "print_time": "3:58",
+      "total_weight_grams": 86.09,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0097-hypno",
+      "title": "0097 - Hypno",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0097%20-%20Hypno%20-%20V1/1-400.webp",
+      "print_time": "4:52",
+      "total_weight_grams": 96.75,
+      "round": 23,
+      "entitled": true
+    },
+    {
+      "slug": "0096-drowzee",
+      "title": "0096 - Drowzee",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0096%20-%20Drowzee%20-%20V1/1-400.webp",
+      "print_time": "4:51",
+      "total_weight_grams": 83.95,
+      "round": 23,
+      "entitled": true
+    },
+    {
       "slug": "0389-torterra",
       "title": "0389 - Torterra",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0389%20-%20Torterra%20-%20V1/1-400.webp",
       "print_time": "11:16",
       "total_weight_grams": 129.18,
+      "round": 22,
       "entitled": true
     },
     {
@@ -16,6 +247,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20Mega%20Charizard%20Y%20-%20V1/1-400.webp",
       "print_time": "10:4",
       "total_weight_grams": 137.69,
+      "round": 22,
       "entitled": true
     },
     {
@@ -25,6 +257,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0122%20-%20Mr.Mime%20-%20V1/1-400.webp",
       "print_time": "5:05",
       "total_weight_grams": 100.51,
+      "round": 22,
       "entitled": true
     },
     {
@@ -34,6 +267,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0643%20Reshiram%20-%20V1/1-400.webp",
       "print_time": "9:27",
       "total_weight_grams": 169.83,
+      "round": 22,
       "entitled": true
     },
     {
@@ -43,6 +277,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0979%20-%20Annihilape%20-%20V1/1-400.webp",
       "print_time": "7:42",
       "total_weight_grams": 125.24,
+      "round": 22,
       "entitled": true
     },
     {
@@ -52,6 +287,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0384%20-%20Mega%20Rayquaza%20-%20V1/1-400.webp",
       "print_time": "6:14",
       "total_weight_grams": 113.03,
+      "round": 19,
       "entitled": false
     },
     {
@@ -61,6 +297,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0076%20-%20Golem%20-%20V1/1-400.webp",
       "print_time": "4:06",
       "total_weight_grams": 75.33,
+      "round": 22,
       "entitled": true
     },
     {
@@ -70,6 +307,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0075%20-%20Graveler/1-400.webp",
       "print_time": "4:23",
       "total_weight_grams": 99.04,
+      "round": 22,
       "entitled": true
     },
     {
@@ -79,7 +317,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0212%20-%20Scizor%20-%20V1/1-400.webp",
       "print_time": "6:51",
       "total_weight_grams": 129.05,
-      "entitled": false
+      "round": 20,
+      "entitled": true
     },
     {
       "slug": "0135-jolteon",
@@ -88,6 +327,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0135%20-%20Jolteon%20-%20V1.1/1-400.webp",
       "print_time": "5:47",
       "total_weight_grams": 107.51,
+      "round": 5,
       "entitled": true
     },
     {
@@ -97,6 +337,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0074%20-%20Geodude%20-%20V1/1-400.webp",
       "print_time": "4:23",
       "total_weight_grams": 86.76,
+      "round": 22,
       "entitled": true
     },
     {
@@ -106,6 +347,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0003%20-%20Venusaur%20-%20V1/1-400.webp",
       "print_time": "6:54",
       "total_weight_grams": 118.91,
+      "round": 1,
       "entitled": false
     },
     {
@@ -115,6 +357,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0130%20-%20Gyarados%20-%20V3/1-400.webp",
       "print_time": "6:27",
       "total_weight_grams": 113.17,
+      "round": 5,
       "entitled": true
     },
     {
@@ -124,7 +367,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0093%20-%20Haunter%20-%20V2.1/1-400.webp",
       "print_time": "04:14",
       "total_weight_grams": 87.92,
-      "entitled": false
+      "round": 3,
+      "entitled": true
     },
     {
       "slug": "0487-giratina",
@@ -133,6 +377,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0487%20-%20Giratina%20-%20V1.1/1-400.webp",
       "print_time": "8:44",
       "total_weight_grams": 144.2,
+      "round": 9,
       "entitled": false
     },
     {
@@ -142,6 +387,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0126%20-%20Magmar%20-%20V1/1-400.webp",
       "print_time": "6:14",
       "total_weight_grams": 115.2,
+      "round": 21,
       "entitled": true
     },
     {
@@ -151,6 +397,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0080%20-%20Slowbro%20-%20V1/1-400.webp",
       "print_time": "6:36",
       "total_weight_grams": 126.49,
+      "round": 21,
       "entitled": true
     },
     {
@@ -160,6 +407,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0079%20-%20Slowpoke%20-%20V1/1-400.webp",
       "print_time": "4:19",
       "total_weight_grams": 88.81,
+      "round": 21,
       "entitled": true
     },
     {
@@ -169,6 +417,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0258%20-%20Mudkip%20-%20V1/1-400.webp",
       "print_time": "5:02",
       "total_weight_grams": 94.45,
+      "round": 21,
       "entitled": true
     },
     {
@@ -178,6 +427,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0350%20Milotic%20-%20V1/1-400.webp",
       "print_time": "6:43",
       "total_weight_grams": 117.65,
+      "round": 21,
       "entitled": true
     },
     {
@@ -187,7 +437,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0778%20-%20Mimikyu%20-%20V1.4/1-400.webp",
       "print_time": "8:34",
       "total_weight_grams": 157.26,
-      "entitled": false
+      "round": "welcome-pack",
+      "entitled": true
     },
     {
       "slug": "0042-golbat",
@@ -196,6 +447,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0042%20-%20Golbat%20-%20V1.1/1-400.webp",
       "print_time": "4:26",
       "total_weight_grams": 89.95,
+      "round": 11,
       "entitled": false
     },
     {
@@ -205,6 +457,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0119%20-%20Seaking%20-%20V1/1-400.webp",
       "print_time": "5:57",
       "total_weight_grams": 107.96,
+      "round": 21,
       "entitled": true
     },
     {
@@ -214,6 +467,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0118%20-%20Goldeen%20-%20v1/1-400.webp",
       "print_time": "5:13",
       "total_weight_grams": 97.71,
+      "round": 21,
       "entitled": true
     },
     {
@@ -223,6 +477,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0229%20-%20Houndoom%20-%20V1/1-400.webp",
       "print_time": "5:20",
       "total_weight_grams": 104.32,
+      "round": 21,
       "entitled": true
     },
     {
@@ -232,6 +487,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0228%20-%20Houndour/1-400.webp",
       "print_time": "6h 0m",
       "total_weight_grams": 93.51,
+      "round": 20,
       "entitled": false
     },
     {
@@ -241,7 +497,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0405%20-%20Luxray%20-%20V1/1-400.webp",
       "print_time": "5:46",
       "total_weight_grams": 108.18,
-      "entitled": false
+      "round": 20,
+      "entitled": true
     },
     {
       "slug": "0137-porygon",
@@ -250,6 +507,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0137%20-%20Porygon%20-%20V1/1-400.webp",
       "print_time": "5:05",
       "total_weight_grams": 97.4,
+      "round": 20,
       "entitled": false
     },
     {
@@ -259,6 +517,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0142%20-%20Aerodactyl/1-400.webp",
       "print_time": "6:21",
       "total_weight_grams": 127,
+      "round": 20,
       "entitled": false
     },
     {
@@ -268,7 +527,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0072%20-%20Tentacool%20-%20V1/1-400.webp",
       "print_time": "5:13",
       "total_weight_grams": 104.1,
-      "entitled": false
+      "round": 20,
+      "entitled": true
     },
     {
       "slug": "0906-sprigatito",
@@ -277,6 +537,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0906%20Sprigatito%20-%20V1/1-400.webp",
       "print_time": "0:00:00",
       "total_weight_grams": 103.74,
+      "round": 20,
       "entitled": false
     },
     {
@@ -286,6 +547,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/386%20Deoxys%20-%20%20V1/1-400.webp",
       "print_time": "5:00",
       "total_weight_grams": 99.85,
+      "round": 20,
       "entitled": false
     },
     {
@@ -295,6 +557,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0117%20-%20Seadra/1-400.webp",
       "print_time": "6:52",
       "total_weight_grams": 118.54,
+      "round": 19,
       "entitled": false
     },
     {
@@ -304,7 +567,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0116%20-%20Horsea/1-400.webp",
       "print_time": "5:11",
       "total_weight_grams": 97,
-      "entitled": false
+      "round": 19,
+      "entitled": true
     },
     {
       "slug": "0077-galarian-ponyta",
@@ -313,6 +577,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0077%20-%20Galarian%20Ponyta/1-400.webp",
       "print_time": "7:44",
       "total_weight_grams": 140.39,
+      "round": 19,
       "entitled": false
     },
     {
@@ -322,6 +587,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20-%20Charizard%20-%20V2.1/1-400.webp",
       "print_time": "7:20",
       "total_weight_grams": 125.87,
+      "round": 2,
       "entitled": false
     },
     {
@@ -331,7 +597,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0089%20-%20Muk%20-%20V1/1-400.webp",
       "print_time": "7:47",
       "total_weight_grams": 152.26,
-      "entitled": false
+      "round": 19,
+      "entitled": true
     },
     {
       "slug": "0399-bidoof",
@@ -340,6 +607,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0399%20-%20Bidoof%20-%20V1/1-400.webp",
       "print_time": "5:41",
       "total_weight_grams": 111.72,
+      "round": 19,
       "entitled": false
     },
     {
@@ -349,6 +617,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20Rose%20-%20V1/1-400.webp",
       "print_time": "4:59",
       "total_weight_grams": 93.41,
+      "round": "free",
       "entitled": true
     },
     {
@@ -358,6 +627,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0609%20-%20Chandelure/1-400.webp",
       "print_time": "6:53",
       "total_weight_grams": 115.48,
+      "round": 19,
       "entitled": false
     },
     {
@@ -367,6 +637,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0088%20-%20Grimer/1-400.webp",
       "print_time": "9:26",
       "total_weight_grams": 152.37,
+      "round": 19,
       "entitled": false
     },
     {
@@ -376,6 +647,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0571%20-%20Zoroark%20-%20V1/1-400.webp",
       "print_time": "10:20",
       "total_weight_grams": 171.73,
+      "round": 18,
       "entitled": false
     },
     {
@@ -385,6 +657,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0570%20-%20Zorua/1-400.webp",
       "print_time": "6:05",
       "total_weight_grams": 114.78,
+      "round": 18,
       "entitled": false
     },
     {
@@ -394,6 +667,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0115%20-%20Kangaskhan/1-400.webp",
       "print_time": "5:36",
       "total_weight_grams": 97.37,
+      "round": 18,
       "entitled": false
     },
     {
@@ -403,6 +677,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0568%20-%20Trubbish/1-400.webp",
       "print_time": "4:24",
       "total_weight_grams": 79.5,
+      "round": 18,
       "entitled": false
     },
     {
@@ -412,6 +687,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0121%20-%20Starmie/1-400.webp",
       "print_time": "4:15",
       "total_weight_grams": 87.26,
+      "round": 18,
       "entitled": false
     },
     {
@@ -421,7 +697,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0959%20-%20Tinkaton/1-400.webp",
       "print_time": "16:16",
       "total_weight_grams": 309.16,
+      "round": 18,
       "entitled": false
+    },
+    {
+      "slug": "team-flare-ball",
+      "title": "Team Flare Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Team%20Flare%20Ball/1-400.webp",
+      "print_time": "3:24",
+      "total_weight_grams": 71.41,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0120-staryu",
@@ -430,15 +717,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0120%20-%20Staryu/1-400.webp",
       "print_time": "4:40",
       "total_weight_grams": 92.18,
-      "entitled": false
+      "round": 18,
+      "entitled": true
     },
     {
       "slug": "0009-mega-blastoise",
       "title": "0009 - Mega Blastoise",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0009%20Mega%20Blastoise%20-%20V1/1-400.webp",
-      "print_time": "7.33",
+      "print_time": "7:33",
       "total_weight_grams": 132.48,
+      "round": 17,
       "entitled": false
     },
     {
@@ -448,6 +737,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0172%20Pichu%20-%20v1/1-400.webp",
       "print_time": "4:19",
       "total_weight_grams": 94.14,
+      "round": 17,
       "entitled": false
     },
     {
@@ -457,7 +747,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0099%20-%20Kingler/1-400.webp",
       "print_time": "06:19",
       "total_weight_grams": 117.8,
-      "entitled": false
+      "round": 17,
+      "entitled": true
     },
     {
       "slug": "0098-krabby",
@@ -466,6 +757,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0098%20-%20Krabby%20-%20V1/1-400.webp",
       "print_time": "5:07",
       "total_weight_grams": 99.52,
+      "round": 17,
       "entitled": false
     },
     {
@@ -475,6 +767,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0257%20-%20Blaziken%20-%20V1/1-400.webp",
       "print_time": "6:13",
       "total_weight_grams": 118.2,
+      "round": 17,
       "entitled": false
     },
     {
@@ -484,6 +777,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0125%20-%20Electabuzz%20-%20V1/1-400.webp",
       "print_time": "4:59",
       "total_weight_grams": 94.11,
+      "round": 17,
+      "entitled": true
+    },
+    {
+      "slug": "unite-ball",
+      "title": "Unite Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Unite%20Ball%20-%20V1/1-400.webp",
+      "print_time": "4:22",
+      "total_weight_grams": 89.19,
+      "round": "free",
       "entitled": true
     },
     {
@@ -493,6 +797,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0081%20-%20Magnemite%20-%20V1/1-400.webp",
       "print_time": "5:20",
       "total_weight_grams": 102.54,
+      "round": "free",
       "entitled": true
     },
     {
@@ -502,6 +807,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20Halloween%20-%20V1/1-400.webp",
       "print_time": "5:58",
       "total_weight_grams": 111.56,
+      "round": "free",
       "entitled": true
     },
     {
@@ -511,6 +817,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0008%20-%20Wartortle%20-%20V1.1/1-400.webp",
       "print_time": "5:36",
       "total_weight_grams": 109.96,
+      "round": 2,
       "entitled": false
     },
     {
@@ -520,6 +827,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0002%20-%20Ivysaur%20-%20V2.1/1-400.webp",
       "print_time": "7:17",
       "total_weight_grams": 117.66,
+      "round": 1,
       "entitled": false
     },
     {
@@ -529,6 +837,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0658%20Ash-Greninja%20-%20V1/1-400.webp",
       "print_time": "4:12",
       "total_weight_grams": 130.71,
+      "round": null,
       "entitled": true
     },
     {
@@ -538,7 +847,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0382%20-%20Kyogre%20-%20V1.1/1-400.webp",
       "print_time": "8:37",
       "total_weight_grams": 145.06,
+      "round": 7,
       "entitled": false
+    },
+    {
+      "slug": "pokeball-open",
+      "title": "Pokeball - Functional",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Pokeball%20-%20Open/1-400.webp",
+      "print_time": "8:15:42",
+      "total_weight_grams": 118.86,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0091-cloyster",
@@ -547,6 +867,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0091%20Cloyster%20-%20V1/1-400.webp",
       "print_time": "6:44",
       "total_weight_grams": 110.93,
+      "round": 17,
       "entitled": false
     },
     {
@@ -556,6 +877,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20Christmas%20-%20V1/1-400.webp",
       "print_time": "6:58:07",
       "total_weight_grams": 150.89,
+      "round": "free",
       "entitled": true
     },
     {
@@ -565,6 +887,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0090%20-%20Shelder%20-%20V1.1/1-400.webp",
       "print_time": "6:06",
       "total_weight_grams": 118.01,
+      "round": 17,
       "entitled": false
     },
     {
@@ -574,6 +897,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0004%20-%20Charmander%20-%20V2/1-400.webp",
       "print_time": "5:05",
       "total_weight_grams": 93.65,
+      "round": "free",
       "entitled": true
     },
     {
@@ -583,7 +907,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0054%20-%20Psyduck%20-%20V1/1-400.webp",
       "print_time": "4:30",
       "total_weight_grams": 89.17,
-      "entitled": false
+      "round": 6,
+      "entitled": true
     },
     {
       "slug": "0162-furret",
@@ -592,6 +917,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0162%20-%20Furret%20-%20V1/1-400.webp",
       "print_time": "4:33",
       "total_weight_grams": 96.06,
+      "round": 17,
       "entitled": false
     },
     {
@@ -599,9 +925,10 @@
       "title": "0059 - Arcanine",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0059%20-%20Arcanine%20-%20V1.1/1-400.webp",
-      "print_time": "8:16",
-      "total_weight_grams": 148.86,
-      "entitled": false
+      "print_time": "8:41",
+      "total_weight_grams": 148.3,
+      "round": "welcome-pack",
+      "entitled": true
     },
     {
       "slug": "0373-salamence",
@@ -610,6 +937,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0373%20-%20Salamence%20-%20V1/1-400.webp",
       "print_time": "6:18",
       "total_weight_grams": 108.64,
+      "round": 16,
       "entitled": false
     },
     {
@@ -619,6 +947,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0937%20-%20Ceruledge%20-%20V1/1-400.webp",
       "print_time": "7:16",
       "total_weight_grams": 131.54,
+      "round": 16,
       "entitled": false
     },
     {
@@ -628,6 +957,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0103%20-%20Exeggutor%20-%20V1/1-400.webp",
       "print_time": "5:19",
       "total_weight_grams": 104.33,
+      "round": 16,
       "entitled": false
     },
     {
@@ -637,7 +967,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0700%20-%20Sylveon%20-%20V2.1/1-400.webp",
       "print_time": "6:35",
       "total_weight_grams": 112.33,
-      "entitled": false
+      "round": "welcome-pack",
+      "entitled": true
     },
     {
       "slug": "0102-exeggcute",
@@ -646,6 +977,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0102%20-%20Exeggcute%20-%20V1/1-400.webp",
       "print_time": "5:01",
       "total_weight_grams": 100.48,
+      "round": 16,
       "entitled": false
     },
     {
@@ -655,6 +987,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0071%20-%20Victreebel%20-%20V1/1-400.webp",
       "print_time": "7:05",
       "total_weight_grams": 119.43,
+      "round": 16,
       "entitled": false
     },
     {
@@ -664,6 +997,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0063%20-%20Abra%20V2.1/1-400.webp",
       "print_time": "4:35",
       "total_weight_grams": 97.95,
+      "round": 3,
       "entitled": false
     },
     {
@@ -673,6 +1007,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0152%20-%20Chikorita%20-%20V1/1-400.webp",
       "print_time": "4:03",
       "total_weight_grams": 78.16,
+      "round": "free",
       "entitled": true
     },
     {
@@ -682,7 +1017,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0070%20%20-%20Weepinbell%20-%20AMS%20Prodile%20-%20V1/1-400.webp",
       "print_time": "5:47",
       "total_weight_grams": 103.02,
-      "entitled": false
+      "round": 16,
+      "entitled": true
     },
     {
       "slug": "0069-bellsprout",
@@ -691,6 +1027,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0069%20-%20Bellsprout%20-%20V1/1-400.webp",
       "print_time": "4:16",
       "total_weight_grams": 85.5,
+      "round": 16,
       "entitled": false
     },
     {
@@ -700,6 +1037,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0128%20-%20Tauros%20-%20V1/1-400.webp",
       "print_time": "4:38",
       "total_weight_grams": 90.25,
+      "round": 16,
       "entitled": false
     },
     {
@@ -709,6 +1047,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0005%20-%20Charmeleon%20-%20V1/1-400.webp",
       "print_time": "4:35",
       "total_weight_grams": 89.84,
+      "round": 2,
       "entitled": false
     },
     {
@@ -718,15 +1057,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0194%20-%20Wooper%20-%20V1/1-400.webp",
       "print_time": "3:56",
       "total_weight_grams": 79.51,
-      "entitled": false
+      "round": 16,
+      "entitled": true
     },
     {
       "slug": "0448-mega-lucario",
       "title": "0448 - Mega Lucario",
       "category": "character",
-      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0448%20-%20Mega%20Lucario%20-%20V1/1-400.webp",
-      "print_time": "8:45",
-      "total_weight_grams": 146.33,
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0448%20-%20Mega%20Lucario%20-%20V1/1-400.webp",
+      "print_time": "8:25",
+      "total_weight_grams": 146.68,
+      "round": 15,
       "entitled": false
     },
     {
@@ -736,6 +1077,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0381%20-%20Latios%20-%20V1/1-400.webp",
       "print_time": "5:29",
       "total_weight_grams": 102.92,
+      "round": 15,
       "entitled": false
     },
     {
@@ -745,6 +1087,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0380%20-%20Latias%20-%20V1/1-400.webp",
       "print_time": "5:21",
       "total_weight_grams": 103.48,
+      "round": 15,
       "entitled": false
     },
     {
@@ -754,6 +1097,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0062%20-%20Poliwrath%20-%20V1/1-400.webp",
       "print_time": "4:51",
       "total_weight_grams": 93.82,
+      "round": 15,
       "entitled": false
     },
     {
@@ -763,7 +1107,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0061%20-%20Poliwhirl%20-%20V1/1-400.webp",
       "print_time": "4:23",
       "total_weight_grams": 90.71,
+      "round": 15,
       "entitled": false
+    },
+    {
+      "slug": "team-rocket-great-ball",
+      "title": "Team Rocket - Great Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Team%20Rocket%20Great%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:58",
+      "total_weight_grams": 82.13,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0887-dragapult",
@@ -772,7 +1127,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0887%20-%20Dragapult%20-%20V1.1/1-400.webp",
       "print_time": "7:31",
       "total_weight_grams": 111.26,
+      "round": 15,
       "entitled": false
+    },
+    {
+      "slug": "wing-ball",
+      "title": "Wing Ball",
+      "category": "standard",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/wing-ball/1-400.webp",
+      "print_time": "3:50:36",
+      "total_weight_grams": 83,
+      "round": null,
+      "entitled": true
     },
     {
       "slug": "0026-mega-raichu-x",
@@ -781,6 +1147,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0026%20-%20Mega%20Raichu%20X%20-%20V1/1-400.webp",
       "print_time": "4:27:17",
       "total_weight_grams": 40.59,
+      "round": "free",
       "entitled": true
     },
     {
@@ -790,6 +1157,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0057%20-%20Primeape%20-%20V1/1-400.webp",
       "print_time": "5:53",
       "total_weight_grams": 105.19,
+      "round": 15,
       "entitled": false
     },
     {
@@ -799,6 +1167,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0056%20-%20Mankey%20-%20V1/1-400.webp",
       "print_time": "4:38",
       "total_weight_grams": 84.64,
+      "round": 15,
       "entitled": false
     },
     {
@@ -808,6 +1177,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0026%20-%20Mega%20Raichu%20Y%20-%20V1/1-400.webp",
       "print_time": "4:49",
       "total_weight_grams": 96,
+      "round": 15,
       "entitled": false
     },
     {
@@ -817,7 +1187,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0484%20-%20Palkia%20-%20V1/1-400.webp",
       "print_time": "6:50",
       "total_weight_grams": 117.64,
+      "round": 14,
       "entitled": false
+    },
+    {
+      "slug": "tera-orb",
+      "title": "Tera Orb",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Tera%20Orb%20-%20V1/1-400.webp",
+      "print_time": "4:07",
+      "total_weight_grams": 95.36,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0068-machamp",
@@ -826,6 +1207,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0068%20-%20Machamp%20-%20V1/1-400.webp",
       "print_time": "6:13",
       "total_weight_grams": 114.19,
+      "round": 14,
       "entitled": false
     },
     {
@@ -835,6 +1217,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0067%20-%20Machoke%20-%20V1/1-400.webp",
       "print_time": "6:06",
       "total_weight_grams": 106.78,
+      "round": 14,
       "entitled": false
     },
     {
@@ -844,6 +1227,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0066%20-%20Machop%20-%20V1/1-400.webp",
       "print_time": "4:00",
       "total_weight_grams": 83.61,
+      "round": 14,
       "entitled": false
     },
     {
@@ -853,6 +1237,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0251%20-%20Celebi%20-%20V1/1-400.webp",
       "print_time": "4:57",
       "total_weight_grams": 99.41,
+      "round": 14,
       "entitled": false
     },
     {
@@ -862,6 +1247,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0158%20-%20Totodile%20-%20V1/1-400.webp",
       "print_time": "4:44",
       "total_weight_grams": 84.43,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "origin-ball",
+      "title": "Origin Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Origin%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:12",
+      "total_weight_grams": 69.47,
+      "round": "free",
       "entitled": true
     },
     {
@@ -871,6 +1267,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0051%20-%20Dugtrio%20-%20V1/1-400.webp",
       "print_time": "5:31",
       "total_weight_grams": 94.67,
+      "round": 14,
       "entitled": false
     },
     {
@@ -880,7 +1277,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0123%20-%20Scyther%20-%20V1.1/1-400.webp",
       "print_time": "5:05",
       "total_weight_grams": 96.12,
-      "entitled": false
+      "round": 14,
+      "entitled": true
     },
     {
       "slug": "0376-metagross",
@@ -889,6 +1287,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0376%20-%20Metagross%20-%20V1/1-400.webp",
       "print_time": "5:45",
       "total_weight_grams": 101.26,
+      "round": 14,
       "entitled": false
     },
     {
@@ -898,6 +1297,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0050%20-%20Diglett%20-%20V1.1/1-400.webp",
       "print_time": "5:19",
       "total_weight_grams": 99.96,
+      "round": 14,
       "entitled": false
     },
     {
@@ -907,6 +1307,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0094%20-%20Mega%20Gengar%20-%20V1/1-400.webp",
       "print_time": "7:34",
       "total_weight_grams": 117.81,
+      "round": "free",
       "entitled": true
     },
     {
@@ -916,6 +1317,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0644%20-%20Zekrom%20-%20V1.1/1-400.webp",
       "print_time": "7:10",
       "total_weight_grams": 124.75,
+      "round": 13,
       "entitled": false
     },
     {
@@ -925,7 +1327,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0445%20-%20Garchomp%20-%20V1/1-400.webp",
       "print_time": "5:55",
       "total_weight_grams": 115.62,
+      "round": 13,
       "entitled": false
+    },
+    {
+      "slug": "dark-ball",
+      "title": "Dark Ball",
+      "category": "standard",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/dark-ball/1-400.webp",
+      "print_time": "5:34:44",
+      "total_weight_grams": 104,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0483-dialga",
@@ -934,6 +1347,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0483%20-%20Dialga%20-%20V1/1-400.webp",
       "print_time": "7:16",
       "total_weight_grams": 144.08,
+      "round": 13,
       "entitled": false
     },
     {
@@ -943,6 +1357,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0248%20-%20Tyranitar%20-%20V1.1/1-400.webp",
       "print_time": "4:50",
       "total_weight_grams": 88.41,
+      "round": 13,
       "entitled": true
     },
     {
@@ -952,6 +1367,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0243%20-%20Raikou%20-%20V2.1/1-400.webp",
       "print_time": "6:50",
       "total_weight_grams": 117,
+      "round": 13,
       "entitled": false
     },
     {
@@ -961,6 +1377,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0155%20-%20Cyndaquil%20-%20V1.1/1-400.webp",
       "print_time": "7:48",
       "total_weight_grams": 120.18,
+      "round": 13,
       "entitled": false
     },
     {
@@ -968,8 +1385,9 @@
       "title": "0006 - Mega Charizard X",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0006%20-%20Mega%20Charizard%20X%20-%20V1.1/1-400.webp",
-      "print_time": "6:13",
-      "total_weight_grams": 113.62,
+      "print_time": "8:27",
+      "total_weight_grams": 144.98,
+      "round": 13,
       "entitled": false
     },
     {
@@ -979,7 +1397,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0359%20-%20Absol%20-%20V1.1/1-400.webp",
       "print_time": "4:38",
       "total_weight_grams": 98.13,
+      "round": 13,
       "entitled": false
+    },
+    {
+      "slug": "team-galactic",
+      "title": "Team Galactic",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Team%20Galactic%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:42",
+      "total_weight_grams": 77.23,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0393-piplup",
@@ -988,6 +1417,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0393%20-%20Piplup%20-%20V1.1/1-400.webp",
       "print_time": "4:28",
       "total_weight_grams": 88.54,
+      "round": 13,
       "entitled": false
     },
     {
@@ -997,7 +1427,8 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0493%20-%20Arceus%20-%20V1.1/1-400.webp",
       "print_time": "6:34",
       "total_weight_grams": 115.8,
-      "entitled": false
+      "round": 12,
+      "entitled": true
     },
     {
       "slug": "0049-venomoth",
@@ -1006,6 +1437,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0049%20-%20Venomoth%20-%20V1.1/1-400.webp",
       "print_time": "5:24",
       "total_weight_grams": 102.63,
+      "round": 12,
       "entitled": false
     },
     {
@@ -1015,6 +1447,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0105%20-%20Marowak%20-%20V1.1/1-400.webp",
       "print_time": "5:42",
       "total_weight_grams": 125.88,
+      "round": 12,
       "entitled": false
     },
     {
@@ -1024,6 +1457,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0048%20-%20Venonat%20-%20V1.1/1-400.webp",
       "print_time": "4:31",
       "total_weight_grams": 80.41,
+      "round": 12,
       "entitled": false
     },
     {
@@ -1033,6 +1467,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0047%20-%20Parasect%20-%20V1/1-400.webp",
       "print_time": "6:41",
       "total_weight_grams": 134.95,
+      "round": 12,
       "entitled": false
     },
     {
@@ -1042,7 +1477,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0245%20-%20Suicune%20-%20V1/1-400.webp",
       "print_time": "6:08",
       "total_weight_grams": 122.68,
-      "entitled": false
+      "round": 12,
+      "entitled": true
     },
     {
       "slug": "0060-poliwag",
@@ -1051,6 +1487,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0060%20-%20Poliwag%20-%20V1/1-400.webp",
       "print_time": "4:12",
       "total_weight_grams": 84.81,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1060,6 +1497,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0046%20-%20Paras%20-%20V1.1/1-400.webp",
       "print_time": "6:20",
       "total_weight_grams": 115.82,
+      "round": 12,
       "entitled": false
     },
     {
@@ -1069,6 +1507,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0104%20-%20Cubone%20-%20V2.1/1-400.webp",
       "print_time": "6:57",
       "total_weight_grams": 129.09,
+      "round": 12,
       "entitled": true
     },
     {
@@ -1078,6 +1517,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0131%20-%20Lapras%20-%20V1.1/1-400.webp",
       "print_time": "5:58",
       "total_weight_grams": 117.36,
+      "round": 12,
       "entitled": true
     },
     {
@@ -1087,6 +1527,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0146%20-%20Moltres%20-%20V1.1/1-400.webp",
       "print_time": "7:53",
       "total_weight_grams": 139.93,
+      "round": 11,
       "entitled": false
     },
     {
@@ -1096,6 +1537,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0101%20-%20Electrode%20-%20V1/1-400.webp",
       "print_time": "3:01",
       "total_weight_grams": 71.1,
+      "round": 11,
       "entitled": false
     },
     {
@@ -1105,6 +1547,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0038%20-%20Ninetails%20-%20V1.1/1-400.webp",
       "print_time": "7:46",
       "total_weight_grams": 150.97,
+      "round": 11,
       "entitled": true
     },
     {
@@ -1114,6 +1557,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0100%20-%20Voltorb%20-%20V1/1-400.webp",
       "print_time": "2:53",
       "total_weight_grams": 65.91,
+      "round": 11,
       "entitled": false
     },
     {
@@ -1123,6 +1567,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0037%20-%20Vulpix%20-%20V1/1-400.webp",
       "print_time": "7:20",
       "total_weight_grams": 138.18,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "team-aqua-ball",
+      "title": "Team Aqua Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Team%20Magna%20Ball%20-%20V1/1-400.webp",
+      "print_time": "2:59",
+      "total_weight_grams": 69.89,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1132,7 +1587,28 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0282%20-%20Gardivoir%20-%20%20V1.1/1-400.webp",
       "print_time": "5:52",
       "total_weight_grams": 118.81,
+      "round": 11,
       "entitled": false
+    },
+    {
+      "slug": "heavy-ball-hisui",
+      "title": "Heavy Ball (Hisui)",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Heavy%20Ball%20(Hisui)%20-%20V1/1-400.webp",
+      "print_time": "3:42",
+      "total_weight_grams": 76.9,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "feather-ball",
+      "title": "Feather Ball",
+      "category": "standard",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/feather-ball/1-400.webp",
+      "print_time": "3:35:16",
+      "total_weight_grams": 81,
+      "round": null,
+      "entitled": true
     },
     {
       "slug": "0491-darkrai",
@@ -1141,7 +1617,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0491%20-%20Darkrai%20-%20V1.2/1-400.webp",
       "print_time": "5:06",
       "total_weight_grams": 122.93,
-      "entitled": false
+      "round": 11,
+      "entitled": true
     },
     {
       "slug": "0385-jirachi",
@@ -1150,6 +1627,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0385%20Jirachi%20-%20V2/3-400.webp",
       "print_time": "4:31",
       "total_weight_grams": 96.35,
+      "round": 10,
       "entitled": false
     },
     {
@@ -1159,6 +1637,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0250%20-%20Ho%20Oh%20-%20V1.1/1-400.webp",
       "print_time": "7:38",
       "total_weight_grams": 136.58,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1168,7 +1647,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0244%20-%20Entei%20-%20V2.1/1-400.webp",
       "print_time": "7:05",
       "total_weight_grams": 120.41,
-      "entitled": false
+      "round": 10,
+      "entitled": true
     },
     {
       "slug": "0145-zapdos",
@@ -1177,6 +1657,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0145%20-%20Zapdos%20-%20V1.1/1-400.webp",
       "print_time": "7:23",
       "total_weight_grams": 111.53,
+      "round": 10,
       "entitled": false
     },
     {
@@ -1186,6 +1667,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0041%20-%20Zubat%20-%20V1.1/1-400.webp",
       "print_time": "4:24",
       "total_weight_grams": 94.34,
+      "round": 11,
       "entitled": true
     },
     {
@@ -1195,6 +1677,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0040%20-%20Wigglypuff%20-%20V1.1/1-400.webp",
       "print_time": "4:05",
       "total_weight_grams": 81.86,
+      "round": 11,
       "entitled": true
     },
     {
@@ -1204,6 +1687,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0036%20-%20Clefable%20-%20V1.1/1-400.webp",
       "print_time": "4:19",
       "total_weight_grams": 87.73,
+      "round": 10,
       "entitled": false
     },
     {
@@ -1213,6 +1697,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0035%20-%20Clefairy%20-%20V1.2/1-400.webp",
       "print_time": "4:10",
       "total_weight_grams": 85.4,
+      "round": 10,
       "entitled": false
     },
     {
@@ -1222,6 +1707,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0658%20-%20Greninja%20-%20V1.1/1-400.webp",
       "print_time": "6:53",
       "total_weight_grams": 120.5,
+      "round": "welcome-pack",
       "entitled": true
     },
     {
@@ -1231,6 +1717,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0043%20-%20Oddish%20-%20V1/1-400.webp",
       "print_time": "4:19",
       "total_weight_grams": 80.18,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "captain-america",
+      "title": "Captain America",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Captain%20America%20Ball%20-%20V1/1-400.webp",
+      "print_time": "4:03",
+      "total_weight_grams": 81.05,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1240,6 +1737,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0144%20-%20Articuno%20-%20V1.1/1-400.webp",
       "print_time": "5:58",
       "total_weight_grams": 112.61,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1247,9 +1745,10 @@
       "title": "0175 - Togepi",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0175%20-%20Togepi%20-%20V2.1/1-400.webp",
-      "print_time": "5:26",
-      "total_weight_grams": 96.08,
-      "entitled": false
+      "print_time": "4:48",
+      "total_weight_grams": 86.13,
+      "round": 10,
+      "entitled": true
     },
     {
       "slug": "0127-pinsir",
@@ -1258,6 +1757,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0127%20-%20Pinsir%20-%20V1/1-400.webp",
       "print_time": "5:13",
       "total_weight_grams": 105.72,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1267,7 +1767,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0110%20-%20Weezing%20-%20V1.1/1-400.webp",
       "print_time": "4:36",
       "total_weight_grams": 90.3,
-      "entitled": false
+      "round": 10,
+      "entitled": true
     },
     {
       "slug": "0109-koffing",
@@ -1276,6 +1777,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0109%20-%20Koffing%20-%20V1.1/1-400.webp",
       "print_time": "4:01",
       "total_weight_grams": 76.99,
+      "round": 10,
       "entitled": false
     },
     {
@@ -1285,6 +1787,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0082%20Magneton%20-%20V1.1/1-400.webp",
       "print_time": "7:13",
       "total_weight_grams": 139.54,
+      "round": 10,
       "entitled": false
     },
     {
@@ -1294,6 +1797,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0044%20-%20Gloom%20-%20V1.1/1-400.webp",
       "print_time": "4:52",
       "total_weight_grams": 106.52,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1303,6 +1807,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0034%20-%20Nidoking%20-%20V1.1/1-400.webp",
       "print_time": "5:26",
       "total_weight_grams": 97.85,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1312,6 +1817,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0033%20-%20Nidorino%20-%20V1.1/1-400.webp",
       "print_time": "4:22",
       "total_weight_grams": 83.79,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1321,6 +1827,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0032%20-%20Nidoran%20-%20V1.1/1-400.webp",
       "print_time": "5:02",
       "total_weight_grams": 89.73,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1330,6 +1837,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0045%20-%20Vileplume%20-%20V1.1/1-400.webp",
       "print_time": "5:56",
       "total_weight_grams": 113.8,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1339,6 +1847,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0039%20-%20Jigglypuff%20-%20V1/1-400.webp",
       "print_time": "4:31",
       "total_weight_grams": 85.06,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1348,6 +1857,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0471%20-%20Glaceon%20-%20V2.1/1-400.webp",
       "print_time": "5:05",
       "total_weight_grams": 98.01,
+      "round": 8,
       "entitled": false
     },
     {
@@ -1357,6 +1867,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0053%20-%20Persian%20-%20V1/1-400.webp",
       "print_time": "4:34",
       "total_weight_grams": 90.58,
+      "round": 8,
       "entitled": false
     },
     {
@@ -1366,6 +1877,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0031%20-%20Nidoqueen%20-%20V1.1/1-400.webp",
       "print_time": "5:40",
       "total_weight_grams": 108,
+      "round": 8,
       "entitled": false
     },
     {
@@ -1375,6 +1887,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0030%20-%20Nidorina%20-%20V1.1/1-400.webp",
       "print_time": "5:11",
       "total_weight_grams": 98.3,
+      "round": 8,
       "entitled": false
     },
     {
@@ -1384,6 +1897,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0113%20-%20Chansey%20-%20V2.1/1-400.webp",
       "print_time": "4:11",
       "total_weight_grams": 83.75,
+      "round": 9,
       "entitled": false
     },
     {
@@ -1393,6 +1907,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0384%20-%20Rayquaza%20-%20V3.1/1-400.webp",
       "print_time": "5:37",
       "total_weight_grams": 106.45,
+      "round": "welcome-pack",
       "entitled": true
     },
     {
@@ -1402,15 +1917,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0132%20-%20Ditto%20-%20V1.1/1-400.webp",
       "print_time": "2:55",
       "total_weight_grams": 68.61,
+      "round": 4,
       "entitled": false
     },
     {
       "slug": "0197-umbreon",
       "title": "0197 - Umbreon",
       "category": "character",
-      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0197%20-%20Umbreon%20-%20V1/1-400.webp",
-      "print_time": "5:10",
-      "total_weight_grams": 101.89,
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0197%20-%20Umbreon%20-%20V5/1-400.webp",
+      "print_time": "4:49",
+      "total_weight_grams": 98.1,
+      "round": 5,
       "entitled": false
     },
     {
@@ -1420,7 +1937,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0150%20-%20Mewtwo%20-%20V2.1/1-400.webp",
       "print_time": "5:17",
       "total_weight_grams": 97.7,
-      "entitled": false
+      "round": "welcome-pack",
+      "entitled": true
     },
     {
       "slug": "0143-snorlax",
@@ -1429,6 +1947,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0143%20-%20Snorlax/1-400.webp",
       "print_time": "4:27",
       "total_weight_grams": 85.74,
+      "round": "welcome-pack",
       "entitled": true
     },
     {
@@ -1438,6 +1957,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0470%20-%20Leafeon%20-%20V1.1/1-400.webp",
       "print_time": "4:42",
       "total_weight_grams": 89.78,
+      "round": 7,
       "entitled": false
     },
     {
@@ -1447,6 +1967,37 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0249%20-%20Lugia%20-%20V1/1-400.webp",
       "print_time": "5:28",
       "total_weight_grams": 108.36,
+      "round": "welcome-pack",
+      "entitled": true
+    },
+    {
+      "slug": "nest-ball",
+      "title": "Nest Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Nest%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:22",
+      "total_weight_grams": 75.91,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "dive-ball",
+      "title": "Dive Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Dive%20Ball%20-%20V1/1-400.webp",
+      "print_time": "4:52",
+      "total_weight_grams": 94.21,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "sport-ball",
+      "title": "Sport Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Sport%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:01",
+      "total_weight_grams": 70.25,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1456,7 +2007,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0383%20-%20Groudon%20-%20V1.1/1-400.webp",
       "print_time": "5:26",
       "total_weight_grams": 97.91,
-      "entitled": false
+      "round": "welcome-pack",
+      "entitled": true
     },
     {
       "slug": "0018-pidgeot",
@@ -1465,6 +2017,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0018-%20Pidgeot%20-%20V1/1-400.webp",
       "print_time": "4:38:50",
       "total_weight_grams": 51.83,
+      "round": 5,
       "entitled": false
     },
     {
@@ -1474,6 +2027,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0149%20-%20Dragonite%20-%20V1/1-400.webp",
       "print_time": "5:10",
       "total_weight_grams": 96.95,
+      "round": "welcome-pack",
       "entitled": true
     },
     {
@@ -1483,6 +2037,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0012%20-%20Butterfree%20-%20V1.1/1-400.webp",
       "print_time": "5:13",
       "total_weight_grams": 106.08,
+      "round": 3,
       "entitled": true
     },
     {
@@ -1492,7 +2047,8 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0136%20-%20Flareon%20-%20V1.1/1-400.webp",
       "print_time": "6:39",
       "total_weight_grams": 128.32,
-      "entitled": false
+      "round": 6,
+      "entitled": true
     },
     {
       "slug": "0148-dragonair",
@@ -1501,7 +2057,68 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0148%20-%20Dragonair%20-%20V1.1/1-400.webp",
       "print_time": "4:53",
       "total_weight_grams": 93.77,
-      "entitled": false
+      "round": 7,
+      "entitled": true
+    },
+    {
+      "slug": "premier-ball",
+      "title": "Premier Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Premier%20Ball%20-%20V1/1-400.webp",
+      "print_time": "2:43",
+      "total_weight_grams": 65.89,
+      "round": 18,
+      "entitled": true
+    },
+    {
+      "slug": "friend-ball",
+      "title": "Friend Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Friend%20Ball%20-%20V2/1-400.webp",
+      "print_time": "3:08",
+      "total_weight_grams": 68.72,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "park-ball",
+      "title": "Park Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Park%20Ball%20-%20V1/1-400.webp",
+      "print_time": "2:49",
+      "total_weight_grams": 66.51,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "team-rocket-ball",
+      "title": "Team Rocket Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Team%20Rocket%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:03",
+      "total_weight_grams": 70,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "heal-ball",
+      "title": "Heal Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Heal%20Ball%20-%20V2/1-400.webp",
+      "print_time": "4:08",
+      "total_weight_grams": 84.39,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "moon-ball",
+      "title": "Moon Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Moon%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:39",
+      "total_weight_grams": 78.63,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0064-kadabra",
@@ -1510,7 +2127,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0064%20-%20Kadabra%20-%20V1/1-400.webp",
       "print_time": "4:25",
       "total_weight_grams": 94.04,
+      "round": 3,
       "entitled": false
+    },
+    {
+      "slug": "clone-ball",
+      "title": "Clone Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Clone%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:50",
+      "total_weight_grams": 82.53,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0007-squirtle",
@@ -1519,6 +2147,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0007%20-%20Squirtle%20-%20V2/1-400.webp",
       "print_time": "0:15:44",
       "total_weight_grams": 92,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1526,9 +2155,20 @@
       "title": "0094 - Gengar",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0094%20-%20Gengar%20-%20V1/1-400.webp",
-      "print_time": "11:56",
-      "total_weight_grams": 94.97,
+      "print_time": "4:19",
+      "total_weight_grams": 84.37,
+      "round": 3,
       "entitled": false
+    },
+    {
+      "slug": "gs-ball",
+      "title": "GS Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/GS%20Ball%20-%20V1/1-400.webp",
+      "print_time": "2:47",
+      "total_weight_grams": 63.74,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0196-espeon",
@@ -1537,6 +2177,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0196%20-%20Espeon%20-%20V1.1/1-400.webp",
       "print_time": "5:11",
       "total_weight_grams": 95.54,
+      "round": 8,
       "entitled": false
     },
     {
@@ -1546,6 +2187,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0011%20-%20Metapod%20-%20V1/1-400.webp",
       "print_time": "4:00",
       "total_weight_grams": 82.87,
+      "round": 3,
       "entitled": false
     },
     {
@@ -1555,7 +2197,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0020%20-%20Raticate%20-V1/1-400.webp",
       "print_time": "4:17:19",
       "total_weight_grams": 100.37,
+      "round": 6,
       "entitled": false
+    },
+    {
+      "slug": "dusk-ball",
+      "title": "Dusk Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Dusk%20Ball%20-%20V2/1-400.webp",
+      "print_time": "4:10",
+      "total_weight_grams": 89.62,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0010-caterpie",
@@ -1564,6 +2217,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0010%20-%20Caterpie%20-%20V2/1-400.webp",
       "print_time": "4:18",
       "total_weight_grams": 85.12,
+      "round": 3,
+      "entitled": true
+    },
+    {
+      "slug": "repeat-ball",
+      "title": "Repeat Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Repeat%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:56",
+      "total_weight_grams": 83.45,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1573,6 +2237,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0052%20-%20Meowth%20-%20V1/1-400.webp",
       "print_time": "4:39",
       "total_weight_grams": 93.05,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "level-ball",
+      "title": "Level Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Level%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:09",
+      "total_weight_grams": 72.88,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1582,7 +2257,18 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0065%20-%20Alakazam%20-%20V1/1-400.webp",
       "print_time": "4:36",
       "total_weight_grams": 101.72,
+      "round": 3,
       "entitled": false
+    },
+    {
+      "slug": "poke-ball-hisui",
+      "title": "Poke Ball (Hisui)",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Poke%20Ball%20(Hisui)%20-%20V1/1-400.webp",
+      "print_time": "3:10",
+      "total_weight_grams": 71.05,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0133-eevee",
@@ -1591,6 +2277,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0133%20-%20Eevee%20-%20V4/1-400.webp",
       "print_time": "5:32",
       "total_weight_grams": 103.71,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1600,7 +2287,28 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0014%20-%20Kakuna%20-%20V1/1-400.webp",
       "print_time": "4:51",
       "total_weight_grams": 98.61,
+      "round": 4,
       "entitled": false
+    },
+    {
+      "slug": "beast-ball",
+      "title": "Beast Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Beast%20Ball%20-%20V1/1-400.webp",
+      "print_time": "6:40",
+      "total_weight_grams": 119.51,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "poke-ball",
+      "title": "Poke Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Poke%20Ball%20-%20V1/1-400.webp",
+      "print_time": "2:43",
+      "total_weight_grams": 65.49,
+      "round": 18,
+      "entitled": true
     },
     {
       "slug": "0026-raichu",
@@ -1609,7 +2317,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0026%20-%20Raichu%20-%20V2.1/1-400.webp",
       "print_time": "4:21",
       "total_weight_grams": 90.96,
+      "round": 2,
       "entitled": false
+    },
+    {
+      "slug": "luxury-ball",
+      "title": "Luxury Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Luxury%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:45",
+      "total_weight_grams": 87.26,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0055-golduck",
@@ -1618,6 +2337,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0055%20-%20Golduck%20-%20V1/1-400.webp",
       "print_time": "5:01",
       "total_weight_grams": 100.55,
+      "round": 6,
       "entitled": false
     },
     {
@@ -1627,7 +2347,8 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0017%20-%20Pidgeotto%20-%20V1/1-400.webp",
       "print_time": "6:18",
       "total_weight_grams": 114.53,
-      "entitled": false
+      "round": 5,
+      "entitled": true
     },
     {
       "slug": "0029-nidoran",
@@ -1636,7 +2357,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0029%20-%20Nidoran%20-%20V1.1/1-400.webp",
       "print_time": "4:28",
       "total_weight_grams": 85.43,
+      "round": 8,
       "entitled": false
+    },
+    {
+      "slug": "ultra-ball",
+      "title": "Ultra Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Ultra%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:42",
+      "total_weight_grams": 81.73,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0025-pikachu-female",
@@ -1645,6 +2377,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0025%20-%20Female%20Pikachu%20-%20V1/1-400.webp",
       "print_time": "4:09:39",
       "total_weight_grams": 92.51,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "net-ball",
+      "title": "Net Ball",
+      "category": "standard",
+      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/net-ball/1-400.webp",
+      "print_time": "4:33:21",
+      "total_weight_grams": 101,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1654,7 +2397,18 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0147%20-%20Dratini%20-%20V1.1/1-400.webp",
       "print_time": "4:58",
       "total_weight_grams": 100.36,
+      "round": 7,
       "entitled": false
+    },
+    {
+      "slug": "great-ball",
+      "title": "Great Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Great%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:24",
+      "total_weight_grams": 80.52,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0028-sandslash",
@@ -1663,7 +2417,38 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0028%20-%20Sandslash%20-%20V1.1/1-400.webp",
       "print_time": "7:35",
       "total_weight_grams": 145.34,
-      "entitled": false
+      "round": 4,
+      "entitled": true
+    },
+    {
+      "slug": "lure-ball",
+      "title": "Lure Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Lure%20Ball%20-%20V2/1-400.webp",
+      "print_time": "3:23:23",
+      "total_weight_grams": 38.19,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "timer-ball",
+      "title": "Timer Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Timer%20Ball%20-%20V1/1-400.webp",
+      "print_time": "4:21",
+      "total_weight_grams": 88.92,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "dream-ball",
+      "title": "Dream Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Dream%20Ball%20-%20V2/1-400.webp",
+      "print_time": "3:43",
+      "total_weight_grams": 78.38,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0129-magikarp",
@@ -1672,7 +2457,18 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0129%20-%20Magikarp%20-%20V1/1-400.webp",
       "print_time": "4:19",
       "total_weight_grams": 87.24,
-      "entitled": false
+      "round": 5,
+      "entitled": true
+    },
+    {
+      "slug": "master-ball",
+      "title": "Master Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Master%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:17",
+      "total_weight_grams": 74.04,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0013-weedle",
@@ -1681,6 +2477,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0013%20-%20Weedle%20-%20V1/1-400.webp",
       "print_time": "4:13",
       "total_weight_grams": 85.73,
+      "round": 4,
       "entitled": false
     },
     {
@@ -1690,6 +2487,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0024%20-%20Arbok%20-%20V1.1/1-400.webp",
       "print_time": "5:06",
       "total_weight_grams": 97.8,
+      "round": 7,
       "entitled": false
     },
     {
@@ -1699,6 +2497,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0095%20-%20Onix%20-%20V2/1-400.webp",
       "print_time": "5:51",
       "total_weight_grams": 125.92,
+      "round": 6,
       "entitled": false
     },
     {
@@ -1708,7 +2507,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0021%20-%20Spearow%20-%20V1/1-400.webp",
       "print_time": "6:03",
       "total_weight_grams": 112.13,
+      "round": 7,
       "entitled": false
+    },
+    {
+      "slug": "love-ball",
+      "title": "Love Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Love%20Ball%20-%20V2.1/1-400.webp",
+      "print_time": "3:22",
+      "total_weight_grams": 72.54,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0019-rattata",
@@ -1717,7 +2527,18 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0019%20-%20Rattata%20-%20V1/1-400.webp",
       "print_time": "6:04",
       "total_weight_grams": 120.12,
-      "entitled": false
+      "round": 6,
+      "entitled": true
+    },
+    {
+      "slug": "great-ball-hisui",
+      "title": "Great Ball (Hisui)",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Great%20Ball%20(Hisui)%20-%20V1/1-400.webp",
+      "print_time": "4:18",
+      "total_weight_grams": 84.39,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0027-sandshrew",
@@ -1726,7 +2547,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0027%20-%20Sandshrew%20-%20V2.1/1-400.webp",
       "print_time": "3:56",
       "total_weight_grams": 76.77,
+      "round": 4,
       "entitled": false
+    },
+    {
+      "slug": "safari-ball",
+      "title": "Safari Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Safari%20Ball%20-%20V1/1-400.webp",
+      "print_time": "5:01",
+      "total_weight_grams": 92.19,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0016-pidgey",
@@ -1735,7 +2567,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0016%20-%20Pidgy%20-%20V1/1-400.webp",
       "print_time": "4:30",
       "total_weight_grams": 86.25,
-      "entitled": false
+      "round": 5,
+      "entitled": true
+    },
+    {
+      "slug": "heavy-ball",
+      "title": "Heavy Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Heavy%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:34",
+      "total_weight_grams": 76.72,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0448-lucario",
@@ -1744,6 +2587,7 @@
       "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0448%20-%20Lucario%20-%20V1/1-400.webp",
       "print_time": "5:06",
       "total_weight_grams": 105.17,
+      "round": 4,
       "entitled": false
     },
     {
@@ -1753,6 +2597,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20V3/1-400.webp",
       "print_time": "4:18",
       "total_weight_grams": 88.76,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "team-magma-ball",
+      "title": "Team Magma Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/team-magma-ball/1-400.webp",
+      "print_time": "2:59",
+      "total_weight_grams": 66.9,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1762,7 +2617,18 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0009%20-%20Blastoise%20-%20V2.1/1-400.webp",
       "print_time": "5:50",
       "total_weight_grams": 113.86,
+      "round": 2,
       "entitled": false
+    },
+    {
+      "slug": "quick-ball",
+      "title": "Quick Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Quick%20Ball%20-%20V2/1-400.webp",
+      "print_time": "4:47",
+      "total_weight_grams": 98.87,
+      "round": "free",
+      "entitled": true
     },
     {
       "slug": "0022-fearow",
@@ -1771,6 +2637,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0022%20-%20Fearow%20-%20V1/1-400.webp",
       "print_time": "5:06",
       "total_weight_grams": 94.19,
+      "round": 7,
       "entitled": false
     },
     {
@@ -1778,9 +2645,10 @@
       "title": "0134 - Vaporeon",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0134%20-%20Vapereon%20-%20V1.1/1-400.webp",
-      "print_time": "6:07",
+      "print_time": "5:55",
       "total_weight_grams": 113.91,
-      "entitled": false
+      "round": 4,
+      "entitled": true
     },
     {
       "slug": "0092-gastly",
@@ -1789,6 +2657,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0092%20-%20Gastly%20-%20V1.1/1-400.webp",
       "print_time": "4:41",
       "total_weight_grams": 102.42,
+      "round": 3,
       "entitled": false
     },
     {
@@ -1798,6 +2667,7 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0023%20-%20Ekans%20-%20V1.1/1-400.webp",
       "print_time": "4:02",
       "total_weight_grams": 85.67,
+      "round": 7,
       "entitled": false
     },
     {
@@ -1807,6 +2677,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0058%20-%20Growlithe%20-%20V1/1-400.webp",
       "print_time": "5:47",
       "total_weight_grams": 105.6,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "cherish-ball",
+      "title": "Cherish Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Cherish%20Ball%20-%20V1/1-400.webp",
+      "print_time": "3:42",
+      "total_weight_grams": 80.1,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1816,6 +2697,17 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0025%20-%20Pikachu%20-%20V3/1-400.webp",
       "print_time": "4:15",
       "total_weight_grams": 86.09,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "fast-ball",
+      "title": "Fast Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Fast%20Ball%20-%20V2/1-400.webp",
+      "print_time": "3:35",
+      "total_weight_grams": 74.18,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1825,6 +2717,27 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0151%20-%20Mew%20-%20V2.1/1-400.webp",
       "print_time": "3:01",
       "total_weight_grams": 70.44,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "ultra-ball-hisui",
+      "title": "Ultra Ball (Hisui)",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Ultra%20Ball%20(Hisui)%20-%20V1/1-400.webp",
+      "print_time": "5:07",
+      "total_weight_grams": 94.38,
+      "round": "free",
+      "entitled": true
+    },
+    {
+      "slug": "strange-ball",
+      "title": "Strange Ball",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Strange%20Ball%20-%20V1/1-400.webp",
+      "print_time": "2:47",
+      "total_weight_grams": 65.39,
+      "round": "free",
       "entitled": true
     },
     {
@@ -1834,13 +2747,14 @@
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0015%20-%20Beedrill%20-%20V2.1/1-400.webp",
       "print_time": "5:33",
       "total_weight_grams": 112.12,
-      "entitled": false
+      "round": 4,
+      "entitled": true
     }
   ],
   "pagination": {
     "page": 1,
-    "limit": 204,
-    "total": 204,
+    "limit": 275,
+    "total": 275,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
