@@ -1,0 +1,125 @@
+name: Update N3D designs
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 12:00 UTC
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-designs
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch designs from N3D API
+        env:
+          N3D_API_KEY: ${{ secrets.N3D_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${N3D_API_KEY:-}" ]; then
+            echo "::error::N3D_API_KEY secret is not set"
+            exit 1
+          fi
+
+          export TMP_DIR="$(mktemp -d)"
+
+          python3 - <<'PY'
+          import json
+          import os
+          import subprocess
+          import sys
+          from pathlib import Path
+
+          api = "https://www.n3dmelbourne.com/api/v1/designs"
+          key = os.environ["N3D_API_KEY"]
+          tmp = Path(os.environ["TMP_DIR"])
+          out = Path("assets/assets/n3d_response.json")
+          sw = Path("flutter_service_worker.js")
+
+          def fetch(page: int) -> dict:
+              path = tmp / f"page{page}.json"
+              subprocess.check_call(
+                  [
+                      "curl",
+                      "-sS",
+                      f"{api}?limit=200&page={page}",
+                      "-H",
+                      f"Authorization: Bearer {key}",
+                      "-o",
+                      str(path),
+                  ]
+              )
+              return json.loads(path.read_text())
+
+          page1 = fetch(1)
+          if "error" in page1 and "data" not in page1:
+              print(f"::error::API error: {page1}", file=sys.stderr)
+              sys.exit(1)
+
+          all_data = list(page1["data"])
+          pagination = page1["pagination"]
+          total_pages = pagination["total_pages"]
+
+          for page in range(2, total_pages + 1):
+              page_data = fetch(page)
+              all_data.extend(page_data["data"])
+
+          result = {
+              "data": all_data,
+              "pagination": {
+                  "page": 1,
+                  "limit": len(all_data),
+                  "total": pagination["total"],
+                  "total_pages": 1,
+                  "has_next": False,
+                  "has_prev": False,
+              },
+          }
+
+          out.write_text(json.dumps(result, indent=2) + "\n")
+          digest = subprocess.check_output(["md5sum", str(out)], text=True).split()[0]
+
+          sw_text = sw.read_text()
+          marker = '"assets/assets/n3d_response.json": "'
+          start = sw_text.find(marker)
+          if start < 0:
+              print("::error::Could not find n3d_response.json hash in flutter_service_worker.js", file=sys.stderr)
+              sys.exit(1)
+          hash_start = start + len(marker)
+          hash_end = sw_text.find('"', hash_start)
+          sw.write_text(sw_text[:hash_start] + digest + sw_text[hash_end:])
+
+          print(f"Wrote {len(all_data)} designs (API total={pagination['total']})")
+          print(f"Updated service worker hash to {digest}")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/assets/n3d_response.json flutter_service_worker.js
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "$(cat <<'EOF'
+          Update N3D designs catalog from API
+
+          EOF
+          )"
+          git push
