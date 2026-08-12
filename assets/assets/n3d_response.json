@@ -1,6 +1,16 @@
 {
   "data": [
     {
+      "slug": "0077-ponyta",
+      "title": "0077 - Ponyta",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0077%20-%20Ponyta%20-%20V1/1-400.webp",
+      "print_time": "7:42",
+      "total_weight_grams": 111.72,
+      "round": 25,
+      "entitled": true
+    },
+    {
       "slug": "0087-dewgong",
       "title": "0087 - Dewgong",
       "category": "character",
@@ -2753,8 +2763,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 275,
-    "total": 275,
+    "limit": 276,
+    "total": 276,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
