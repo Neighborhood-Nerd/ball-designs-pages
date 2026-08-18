@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "slug": "0492-shaymin",
+      "title": "0492 - Shaymin",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0492%20-%20Shaymin%20-%20V1/1-400.webp",
+      "print_time": "6:42",
+      "total_weight_grams": 103.85,
+      "round": 25,
+      "updated_at": "2026-08-18T12:17:24.79057+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0077-ponyta",
       "title": "0077 - Ponyta",
       "category": "character",
@@ -8,6 +19,7 @@
       "print_time": "7:42",
       "total_weight_grams": 111.72,
       "round": 25,
+      "updated_at": "2026-08-17T02:43:15.468267+00:00",
       "entitled": true
     },
     {
@@ -18,6 +30,7 @@
       "print_time": "5:47",
       "total_weight_grams": 96.44,
       "round": 25,
+      "updated_at": "2026-08-11T08:38:07.207+00:00",
       "entitled": true
     },
     {
@@ -28,6 +41,7 @@
       "print_time": "5:22",
       "total_weight_grams": 107.7,
       "round": 25,
+      "updated_at": "2026-08-16T19:36:52.57534+00:00",
       "entitled": true
     },
     {
@@ -38,6 +52,7 @@
       "print_time": "7:23",
       "total_weight_grams": 119.37,
       "round": 24,
+      "updated_at": "2026-08-17T17:22:01.543785+00:00",
       "entitled": true
     },
     {
@@ -48,6 +63,7 @@
       "print_time": "5:32",
       "total_weight_grams": 104.04,
       "round": 24,
+      "updated_at": "2026-08-15T22:23:35.535393+00:00",
       "entitled": true
     },
     {
@@ -58,6 +74,7 @@
       "print_time": "0:00:00",
       "total_weight_grams": 106.31,
       "round": 24,
+      "updated_at": "2026-08-16T09:30:20.048098+00:00",
       "entitled": true
     },
     {
@@ -68,6 +85,7 @@
       "print_time": "5:02",
       "total_weight_grams": 96.76,
       "round": 24,
+      "updated_at": "2026-08-10T11:09:35.580726+00:00",
       "entitled": true
     },
     {
@@ -78,6 +96,7 @@
       "print_time": "4:42",
       "total_weight_grams": 90.95,
       "round": 24,
+      "updated_at": "2026-08-10T11:09:34.0823+00:00",
       "entitled": true
     },
     {
@@ -88,6 +107,7 @@
       "print_time": "6:23",
       "total_weight_grams": 105.36,
       "round": 24,
+      "updated_at": "2026-08-15T22:23:32.980919+00:00",
       "entitled": true
     },
     {
@@ -98,6 +118,7 @@
       "print_time": "6:15",
       "total_weight_grams": 103.85,
       "round": 24,
+      "updated_at": "2026-07-31T11:47:29.40654+00:00",
       "entitled": true
     },
     {
@@ -108,6 +129,7 @@
       "print_time": "3:47",
       "total_weight_grams": 76.19,
       "round": 24,
+      "updated_at": "2026-08-14T00:56:40.209464+00:00",
       "entitled": true
     },
     {
@@ -118,6 +140,7 @@
       "print_time": "4:26",
       "total_weight_grams": 93.89,
       "round": "free",
+      "updated_at": "2026-08-04T12:26:52.956956+00:00",
       "entitled": true
     },
     {
@@ -128,6 +151,7 @@
       "print_time": "7:26",
       "total_weight_grams": 136.44,
       "round": 23,
+      "updated_at": "2026-06-30T11:12:51.834+00:00",
       "entitled": true
     },
     {
@@ -138,6 +162,7 @@
       "print_time": "7:14",
       "total_weight_grams": 128.99,
       "round": 23,
+      "updated_at": "2026-07-02T06:45:07.993+00:00",
       "entitled": true
     },
     {
@@ -148,6 +173,7 @@
       "print_time": "7:29",
       "total_weight_grams": 122.68,
       "round": 23,
+      "updated_at": "2026-08-18T08:01:43.830382+00:00",
       "entitled": true
     },
     {
@@ -158,6 +184,7 @@
       "print_time": "5:59",
       "total_weight_grams": 116,
       "round": 23,
+      "updated_at": "2026-08-04T12:26:57.017064+00:00",
       "entitled": true
     },
     {
@@ -168,6 +195,7 @@
       "print_time": "6:33",
       "total_weight_grams": 115.09,
       "round": "free",
+      "updated_at": "2026-08-04T07:41:04.483801+00:00",
       "entitled": true
     },
     {
@@ -178,6 +206,7 @@
       "print_time": "5:31",
       "total_weight_grams": 95.7,
       "round": 23,
+      "updated_at": "2026-08-13T05:03:28.738036+00:00",
       "entitled": true
     },
     {
@@ -188,6 +217,7 @@
       "print_time": "8:22",
       "total_weight_grams": 137.53,
       "round": 23,
+      "updated_at": "2026-08-09T00:39:27.227472+00:00",
       "entitled": true
     },
     {
@@ -198,6 +228,7 @@
       "print_time": "6:59",
       "total_weight_grams": 118.59,
       "round": 23,
+      "updated_at": "2026-08-06T23:36:55.709216+00:00",
       "entitled": true
     },
     {
@@ -208,6 +239,7 @@
       "print_time": "8:14",
       "total_weight_grams": 130.21,
       "round": 23,
+      "updated_at": "2026-06-18T14:17:12.358+00:00",
       "entitled": true
     },
     {
@@ -218,6 +250,7 @@
       "print_time": "3:58",
       "total_weight_grams": 86.09,
       "round": 23,
+      "updated_at": "2026-08-01T21:23:02.862627+00:00",
       "entitled": true
     },
     {
@@ -228,6 +261,7 @@
       "print_time": "4:52",
       "total_weight_grams": 96.75,
       "round": 23,
+      "updated_at": "2026-08-16T00:59:32.459801+00:00",
       "entitled": true
     },
     {
@@ -238,6 +272,7 @@
       "print_time": "4:51",
       "total_weight_grams": 83.95,
       "round": 23,
+      "updated_at": "2026-08-01T21:23:06.446988+00:00",
       "entitled": true
     },
     {
@@ -248,6 +283,7 @@
       "print_time": "11:16",
       "total_weight_grams": 129.18,
       "round": 22,
+      "updated_at": "2026-08-06T23:37:02.298063+00:00",
       "entitled": true
     },
     {
@@ -258,6 +294,7 @@
       "print_time": "10:4",
       "total_weight_grams": 137.69,
       "round": 22,
+      "updated_at": "2026-06-30T04:31:11.625+00:00",
       "entitled": true
     },
     {
@@ -268,6 +305,7 @@
       "print_time": "5:05",
       "total_weight_grams": 100.51,
       "round": 22,
+      "updated_at": "2026-08-17T03:47:36.410673+00:00",
       "entitled": true
     },
     {
@@ -278,6 +316,7 @@
       "print_time": "9:27",
       "total_weight_grams": 169.83,
       "round": 22,
+      "updated_at": "2026-06-09T06:50:57.7+00:00",
       "entitled": true
     },
     {
@@ -288,6 +327,7 @@
       "print_time": "7:42",
       "total_weight_grams": 125.24,
       "round": 22,
+      "updated_at": "2026-05-23T12:19:27.001+00:00",
       "entitled": true
     },
     {
@@ -298,6 +338,7 @@
       "print_time": "6:14",
       "total_weight_grams": 113.03,
       "round": 19,
+      "updated_at": "2026-06-30T01:16:13.003+00:00",
       "entitled": false
     },
     {
@@ -308,6 +349,7 @@
       "print_time": "4:06",
       "total_weight_grams": 75.33,
       "round": 22,
+      "updated_at": "2026-08-01T21:23:25.794551+00:00",
       "entitled": true
     },
     {
@@ -318,6 +360,7 @@
       "print_time": "4:23",
       "total_weight_grams": 99.04,
       "round": 22,
+      "updated_at": "2026-08-01T21:23:27.865179+00:00",
       "entitled": true
     },
     {
@@ -328,6 +371,7 @@
       "print_time": "6:51",
       "total_weight_grams": 129.05,
       "round": 20,
+      "updated_at": "2026-05-13T12:01:05.467+00:00",
       "entitled": true
     },
     {
@@ -338,6 +382,7 @@
       "print_time": "5:47",
       "total_weight_grams": 107.51,
       "round": 5,
+      "updated_at": "2026-05-11T12:26:23.682+00:00",
       "entitled": true
     },
     {
@@ -348,6 +393,7 @@
       "print_time": "4:23",
       "total_weight_grams": 86.76,
       "round": 22,
+      "updated_at": "2026-05-26T00:55:42.308+00:00",
       "entitled": true
     },
     {
@@ -358,6 +404,7 @@
       "print_time": "6:54",
       "total_weight_grams": 118.91,
       "round": 1,
+      "updated_at": "2026-05-06T11:40:37.363+00:00",
       "entitled": false
     },
     {
@@ -368,6 +415,7 @@
       "print_time": "6:27",
       "total_weight_grams": 113.17,
       "round": 5,
+      "updated_at": "2026-05-08T10:56:29.856+00:00",
       "entitled": true
     },
     {
@@ -378,6 +426,7 @@
       "print_time": "04:14",
       "total_weight_grams": 87.92,
       "round": 3,
+      "updated_at": "2026-05-03T06:39:31.663+00:00",
       "entitled": true
     },
     {
@@ -388,6 +437,7 @@
       "print_time": "8:44",
       "total_weight_grams": 144.2,
       "round": 9,
+      "updated_at": "2026-06-20T06:02:50.105+00:00",
       "entitled": false
     },
     {
@@ -398,6 +448,7 @@
       "print_time": "6:14",
       "total_weight_grams": 115.2,
       "round": 21,
+      "updated_at": "2026-08-01T21:23:39.188752+00:00",
       "entitled": true
     },
     {
@@ -408,6 +459,7 @@
       "print_time": "6:36",
       "total_weight_grams": 126.49,
       "round": 21,
+      "updated_at": "2026-04-28T05:53:28.842+00:00",
       "entitled": true
     },
     {
@@ -418,6 +470,7 @@
       "print_time": "4:19",
       "total_weight_grams": 88.81,
       "round": 21,
+      "updated_at": "2026-04-27T00:57:29.666+00:00",
       "entitled": true
     },
     {
@@ -428,6 +481,7 @@
       "print_time": "5:02",
       "total_weight_grams": 94.45,
       "round": 21,
+      "updated_at": "2026-08-01T21:23:43.386538+00:00",
       "entitled": true
     },
     {
@@ -438,6 +492,7 @@
       "print_time": "6:43",
       "total_weight_grams": 117.65,
       "round": 21,
+      "updated_at": "2026-08-04T12:27:07.311428+00:00",
       "entitled": true
     },
     {
@@ -448,6 +503,7 @@
       "print_time": "8:34",
       "total_weight_grams": 157.26,
       "round": "welcome-pack",
+      "updated_at": "2026-04-22T07:25:35.316+00:00",
       "entitled": true
     },
     {
@@ -458,6 +514,7 @@
       "print_time": "4:26",
       "total_weight_grams": 89.95,
       "round": 11,
+      "updated_at": "2026-04-18T10:51:31.508+00:00",
       "entitled": false
     },
     {
@@ -468,6 +525,7 @@
       "print_time": "5:57",
       "total_weight_grams": 107.96,
       "round": 21,
+      "updated_at": "2026-05-11T00:25:31.613+00:00",
       "entitled": true
     },
     {
@@ -478,6 +536,7 @@
       "print_time": "5:13",
       "total_weight_grams": 97.71,
       "round": 21,
+      "updated_at": "2026-08-17T03:48:11.038646+00:00",
       "entitled": true
     },
     {
@@ -488,6 +547,7 @@
       "print_time": "5:20",
       "total_weight_grams": 104.32,
       "round": 21,
+      "updated_at": "2026-04-07T16:31:55.001+00:00",
       "entitled": true
     },
     {
@@ -498,6 +558,7 @@
       "print_time": "6h 0m",
       "total_weight_grams": 93.51,
       "round": 20,
+      "updated_at": "2026-04-21T07:58:19.616+00:00",
       "entitled": false
     },
     {
@@ -508,6 +569,7 @@
       "print_time": "5:46",
       "total_weight_grams": 108.18,
       "round": 20,
+      "updated_at": "2026-04-16T16:14:05.333+00:00",
       "entitled": true
     },
     {
@@ -518,6 +580,7 @@
       "print_time": "5:05",
       "total_weight_grams": 97.4,
       "round": 20,
+      "updated_at": "2026-03-26T07:01:21.15+00:00",
       "entitled": false
     },
     {
@@ -528,6 +591,7 @@
       "print_time": "6:21",
       "total_weight_grams": 127,
       "round": 20,
+      "updated_at": "2026-03-25T23:04:47.182+00:00",
       "entitled": false
     },
     {
@@ -538,6 +602,7 @@
       "print_time": "5:13",
       "total_weight_grams": 104.1,
       "round": 20,
+      "updated_at": "2026-08-15T04:45:14.645674+00:00",
       "entitled": true
     },
     {
@@ -548,6 +613,7 @@
       "print_time": "0:00:00",
       "total_weight_grams": 103.74,
       "round": 20,
+      "updated_at": "2026-08-15T04:45:10.120962+00:00",
       "entitled": false
     },
     {
@@ -558,6 +624,7 @@
       "print_time": "5:00",
       "total_weight_grams": 99.85,
       "round": 20,
+      "updated_at": "2026-08-15T04:45:07.590507+00:00",
       "entitled": false
     },
     {
@@ -568,6 +635,7 @@
       "print_time": "6:52",
       "total_weight_grams": 118.54,
       "round": 19,
+      "updated_at": "2026-08-15T04:45:04.570525+00:00",
       "entitled": false
     },
     {
@@ -578,6 +646,7 @@
       "print_time": "5:11",
       "total_weight_grams": 97,
       "round": 19,
+      "updated_at": "2026-08-15T04:45:00.649747+00:00",
       "entitled": true
     },
     {
@@ -588,6 +657,7 @@
       "print_time": "7:44",
       "total_weight_grams": 140.39,
       "round": 19,
+      "updated_at": "2026-08-15T04:44:55.819203+00:00",
       "entitled": false
     },
     {
@@ -598,6 +668,7 @@
       "print_time": "7:20",
       "total_weight_grams": 125.87,
       "round": 2,
+      "updated_at": "2026-06-30T01:44:28.907+00:00",
       "entitled": false
     },
     {
@@ -608,6 +679,7 @@
       "print_time": "7:47",
       "total_weight_grams": 152.26,
       "round": 19,
+      "updated_at": "2026-08-15T04:44:50.521479+00:00",
       "entitled": true
     },
     {
@@ -618,6 +690,7 @@
       "print_time": "5:41",
       "total_weight_grams": 111.72,
       "round": 19,
+      "updated_at": "2026-08-15T04:44:47.838937+00:00",
       "entitled": false
     },
     {
@@ -628,6 +701,7 @@
       "print_time": "4:59",
       "total_weight_grams": 93.41,
       "round": "free",
+      "updated_at": "2026-08-15T04:44:43.4707+00:00",
       "entitled": true
     },
     {
@@ -638,6 +712,7 @@
       "print_time": "6:53",
       "total_weight_grams": 115.48,
       "round": 19,
+      "updated_at": "2026-08-15T04:44:35.150891+00:00",
       "entitled": false
     },
     {
@@ -648,6 +723,7 @@
       "print_time": "9:26",
       "total_weight_grams": 152.37,
       "round": 19,
+      "updated_at": "2026-08-15T04:44:36.818142+00:00",
       "entitled": false
     },
     {
@@ -658,6 +734,7 @@
       "print_time": "10:20",
       "total_weight_grams": 171.73,
       "round": 18,
+      "updated_at": "2026-07-28T01:53:51.237+00:00",
       "entitled": false
     },
     {
@@ -668,6 +745,7 @@
       "print_time": "6:05",
       "total_weight_grams": 114.78,
       "round": 18,
+      "updated_at": "2026-08-15T04:45:51.932664+00:00",
       "entitled": false
     },
     {
@@ -678,6 +756,7 @@
       "print_time": "5:36",
       "total_weight_grams": 97.37,
       "round": 18,
+      "updated_at": "2026-08-15T04:45:54.016242+00:00",
       "entitled": false
     },
     {
@@ -688,6 +767,7 @@
       "print_time": "4:24",
       "total_weight_grams": 79.5,
       "round": 18,
+      "updated_at": "2026-08-15T04:45:56.578203+00:00",
       "entitled": false
     },
     {
@@ -698,6 +778,7 @@
       "print_time": "4:15",
       "total_weight_grams": 87.26,
       "round": 18,
+      "updated_at": "2026-08-17T03:49:00.568451+00:00",
       "entitled": false
     },
     {
@@ -708,6 +789,7 @@
       "print_time": "16:16",
       "total_weight_grams": 309.16,
       "round": 18,
+      "updated_at": "2026-08-15T04:46:04.349986+00:00",
       "entitled": false
     },
     {
@@ -718,6 +800,7 @@
       "print_time": "3:24",
       "total_weight_grams": 71.41,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -728,6 +811,7 @@
       "print_time": "4:40",
       "total_weight_grams": 92.18,
       "round": 18,
+      "updated_at": "2026-08-15T04:46:07.433904+00:00",
       "entitled": true
     },
     {
@@ -738,6 +822,7 @@
       "print_time": "7:33",
       "total_weight_grams": 132.48,
       "round": 17,
+      "updated_at": "2026-06-30T05:39:22.223+00:00",
       "entitled": false
     },
     {
@@ -748,6 +833,7 @@
       "print_time": "4:19",
       "total_weight_grams": 94.14,
       "round": 17,
+      "updated_at": "2026-08-15T04:46:11.425778+00:00",
       "entitled": false
     },
     {
@@ -758,6 +844,7 @@
       "print_time": "06:19",
       "total_weight_grams": 117.8,
       "round": 17,
+      "updated_at": "2026-08-15T04:46:17.523373+00:00",
       "entitled": true
     },
     {
@@ -768,6 +855,7 @@
       "print_time": "5:07",
       "total_weight_grams": 99.52,
       "round": 17,
+      "updated_at": "2026-08-15T04:46:18.737131+00:00",
       "entitled": false
     },
     {
@@ -778,6 +866,7 @@
       "print_time": "6:13",
       "total_weight_grams": 118.2,
       "round": 17,
+      "updated_at": "2026-08-15T04:46:21.329511+00:00",
       "entitled": false
     },
     {
@@ -788,6 +877,7 @@
       "print_time": "4:59",
       "total_weight_grams": 94.11,
       "round": 17,
+      "updated_at": "2026-08-15T04:46:24.402424+00:00",
       "entitled": true
     },
     {
@@ -798,6 +888,7 @@
       "print_time": "4:22",
       "total_weight_grams": 89.19,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -808,6 +899,7 @@
       "print_time": "5:20",
       "total_weight_grams": 102.54,
       "round": "free",
+      "updated_at": "2026-08-15T04:46:27.08904+00:00",
       "entitled": true
     },
     {
@@ -818,6 +910,7 @@
       "print_time": "5:58",
       "total_weight_grams": 111.56,
       "round": "free",
+      "updated_at": "2026-08-15T04:46:28.172189+00:00",
       "entitled": true
     },
     {
@@ -828,6 +921,7 @@
       "print_time": "5:36",
       "total_weight_grams": 109.96,
       "round": 2,
+      "updated_at": "2026-05-08T11:44:43.292+00:00",
       "entitled": false
     },
     {
@@ -838,6 +932,7 @@
       "print_time": "7:17",
       "total_weight_grams": 117.66,
       "round": 1,
+      "updated_at": "2026-08-15T04:46:32.891881+00:00",
       "entitled": false
     },
     {
@@ -848,6 +943,7 @@
       "print_time": "4:12",
       "total_weight_grams": 130.71,
       "round": null,
+      "updated_at": "2026-08-15T04:46:35.853569+00:00",
       "entitled": true
     },
     {
@@ -858,6 +954,7 @@
       "print_time": "8:37",
       "total_weight_grams": 145.06,
       "round": 7,
+      "updated_at": "2026-08-15T04:46:37.618621+00:00",
       "entitled": false
     },
     {
@@ -868,6 +965,7 @@
       "print_time": "8:15:42",
       "total_weight_grams": 118.86,
       "round": "free",
+      "updated_at": "2026-07-30T18:54:18.276767+00:00",
       "entitled": true
     },
     {
@@ -878,6 +976,7 @@
       "print_time": "6:44",
       "total_weight_grams": 110.93,
       "round": 17,
+      "updated_at": "2026-07-14T01:20:46.361313+00:00",
       "entitled": false
     },
     {
@@ -888,6 +987,7 @@
       "print_time": "6:58:07",
       "total_weight_grams": 150.89,
       "round": "free",
+      "updated_at": "2026-08-17T03:49:32.622084+00:00",
       "entitled": true
     },
     {
@@ -898,6 +998,7 @@
       "print_time": "6:06",
       "total_weight_grams": 118.01,
       "round": 17,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -908,6 +1009,7 @@
       "print_time": "5:05",
       "total_weight_grams": 93.65,
       "round": "free",
+      "updated_at": "2026-08-15T04:46:45.647277+00:00",
       "entitled": true
     },
     {
@@ -918,6 +1020,7 @@
       "print_time": "4:30",
       "total_weight_grams": 89.17,
       "round": 6,
+      "updated_at": "2026-08-15T04:46:47.402287+00:00",
       "entitled": true
     },
     {
@@ -928,6 +1031,7 @@
       "print_time": "4:33",
       "total_weight_grams": 96.06,
       "round": 17,
+      "updated_at": "2026-08-16T09:30:03.260414+00:00",
       "entitled": false
     },
     {
@@ -938,6 +1042,7 @@
       "print_time": "8:41",
       "total_weight_grams": 148.3,
       "round": "welcome-pack",
+      "updated_at": "2026-06-11T00:25:59.615+00:00",
       "entitled": true
     },
     {
@@ -948,6 +1053,7 @@
       "print_time": "6:18",
       "total_weight_grams": 108.64,
       "round": 16,
+      "updated_at": "2026-08-15T04:46:56.560107+00:00",
       "entitled": false
     },
     {
@@ -958,6 +1064,7 @@
       "print_time": "7:16",
       "total_weight_grams": 131.54,
       "round": 16,
+      "updated_at": "2026-07-29T12:34:38.859+00:00",
       "entitled": false
     },
     {
@@ -968,6 +1075,7 @@
       "print_time": "5:19",
       "total_weight_grams": 104.33,
       "round": 16,
+      "updated_at": "2026-08-15T04:47:02.230288+00:00",
       "entitled": false
     },
     {
@@ -978,6 +1086,7 @@
       "print_time": "6:35",
       "total_weight_grams": 112.33,
       "round": "welcome-pack",
+      "updated_at": "2026-08-18T06:00:17.492481+00:00",
       "entitled": true
     },
     {
@@ -988,6 +1097,7 @@
       "print_time": "5:01",
       "total_weight_grams": 100.48,
       "round": 16,
+      "updated_at": "2026-08-15T04:47:09.427563+00:00",
       "entitled": false
     },
     {
@@ -998,6 +1108,7 @@
       "print_time": "7:05",
       "total_weight_grams": 119.43,
       "round": 16,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -1008,6 +1119,7 @@
       "print_time": "4:35",
       "total_weight_grams": 97.95,
       "round": 3,
+      "updated_at": "2026-08-15T04:47:14.457579+00:00",
       "entitled": false
     },
     {
@@ -1018,6 +1130,7 @@
       "print_time": "4:03",
       "total_weight_grams": 78.16,
       "round": "free",
+      "updated_at": "2026-08-15T04:47:19.259809+00:00",
       "entitled": true
     },
     {
@@ -1028,6 +1141,7 @@
       "print_time": "5:47",
       "total_weight_grams": 103.02,
       "round": 16,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1038,6 +1152,7 @@
       "print_time": "4:16",
       "total_weight_grams": 85.5,
       "round": 16,
+      "updated_at": "2026-08-15T04:47:24.665017+00:00",
       "entitled": false
     },
     {
@@ -1048,6 +1163,7 @@
       "print_time": "4:38",
       "total_weight_grams": 90.25,
       "round": 16,
+      "updated_at": "2026-08-15T04:47:27.067856+00:00",
       "entitled": false
     },
     {
@@ -1058,6 +1174,7 @@
       "print_time": "4:35",
       "total_weight_grams": 89.84,
       "round": 2,
+      "updated_at": "2026-05-08T12:30:33.78+00:00",
       "entitled": false
     },
     {
@@ -1068,6 +1185,7 @@
       "print_time": "3:56",
       "total_weight_grams": 79.51,
       "round": 16,
+      "updated_at": "2026-08-15T04:47:32.183533+00:00",
       "entitled": true
     },
     {
@@ -1076,8 +1194,9 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0448%20-%20Mega%20Lucario%20-%20V1/1-400.webp",
       "print_time": "8:25",
-      "total_weight_grams": 146.68,
+      "total_weight_grams": 143.71,
       "round": 15,
+      "updated_at": "2026-08-07T11:26:39.644+00:00",
       "entitled": false
     },
     {
@@ -1088,6 +1207,7 @@
       "print_time": "5:29",
       "total_weight_grams": 102.92,
       "round": 15,
+      "updated_at": "2026-08-15T04:47:37.670482+00:00",
       "entitled": false
     },
     {
@@ -1098,6 +1218,7 @@
       "print_time": "5:21",
       "total_weight_grams": 103.48,
       "round": 15,
+      "updated_at": "2026-08-15T04:47:39.239267+00:00",
       "entitled": false
     },
     {
@@ -1108,6 +1229,7 @@
       "print_time": "4:51",
       "total_weight_grams": 93.82,
       "round": 15,
+      "updated_at": "2026-08-15T04:47:42.199198+00:00",
       "entitled": false
     },
     {
@@ -1118,6 +1240,7 @@
       "print_time": "4:23",
       "total_weight_grams": 90.71,
       "round": 15,
+      "updated_at": "2026-08-15T04:47:46.25641+00:00",
       "entitled": false
     },
     {
@@ -1128,6 +1251,7 @@
       "print_time": "3:58",
       "total_weight_grams": 82.13,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1138,6 +1262,7 @@
       "print_time": "7:31",
       "total_weight_grams": 111.26,
       "round": 15,
+      "updated_at": "2026-07-11T20:17:36.923038+00:00",
       "entitled": false
     },
     {
@@ -1148,6 +1273,7 @@
       "print_time": "3:50:36",
       "total_weight_grams": 83,
       "round": null,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1158,6 +1284,7 @@
       "print_time": "4:27:17",
       "total_weight_grams": 40.59,
       "round": "free",
+      "updated_at": "2026-08-15T04:47:50.298628+00:00",
       "entitled": true
     },
     {
@@ -1168,6 +1295,7 @@
       "print_time": "5:53",
       "total_weight_grams": 105.19,
       "round": 15,
+      "updated_at": "2026-05-08T11:33:56.629+00:00",
       "entitled": false
     },
     {
@@ -1178,6 +1306,7 @@
       "print_time": "4:38",
       "total_weight_grams": 84.64,
       "round": 15,
+      "updated_at": "2026-08-15T04:47:55.183842+00:00",
       "entitled": false
     },
     {
@@ -1188,6 +1317,7 @@
       "print_time": "4:49",
       "total_weight_grams": 96,
       "round": 15,
+      "updated_at": "2026-08-15T04:47:56.799053+00:00",
       "entitled": false
     },
     {
@@ -1198,6 +1328,7 @@
       "print_time": "6:50",
       "total_weight_grams": 117.64,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:00.611716+00:00",
       "entitled": false
     },
     {
@@ -1208,6 +1339,7 @@
       "print_time": "4:07",
       "total_weight_grams": 95.36,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1218,6 +1350,7 @@
       "print_time": "6:13",
       "total_weight_grams": 114.19,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:04.605093+00:00",
       "entitled": false
     },
     {
@@ -1228,6 +1361,7 @@
       "print_time": "6:06",
       "total_weight_grams": 106.78,
       "round": 14,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -1238,6 +1372,7 @@
       "print_time": "4:00",
       "total_weight_grams": 83.61,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:08.129719+00:00",
       "entitled": false
     },
     {
@@ -1248,6 +1383,7 @@
       "print_time": "4:57",
       "total_weight_grams": 99.41,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:11.71601+00:00",
       "entitled": false
     },
     {
@@ -1258,6 +1394,7 @@
       "print_time": "4:44",
       "total_weight_grams": 84.43,
       "round": "free",
+      "updated_at": "2026-08-15T04:48:14.56675+00:00",
       "entitled": true
     },
     {
@@ -1268,6 +1405,7 @@
       "print_time": "3:12",
       "total_weight_grams": 69.47,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1278,6 +1416,7 @@
       "print_time": "5:31",
       "total_weight_grams": 94.67,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:21.129085+00:00",
       "entitled": false
     },
     {
@@ -1288,6 +1427,7 @@
       "print_time": "5:05",
       "total_weight_grams": 96.12,
       "round": 14,
+      "updated_at": "2026-08-06T23:33:18.065202+00:00",
       "entitled": true
     },
     {
@@ -1298,6 +1438,7 @@
       "print_time": "5:45",
       "total_weight_grams": 101.26,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:25.166613+00:00",
       "entitled": false
     },
     {
@@ -1308,6 +1449,7 @@
       "print_time": "5:19",
       "total_weight_grams": 99.96,
       "round": 14,
+      "updated_at": "2026-08-15T04:48:27.202037+00:00",
       "entitled": false
     },
     {
@@ -1318,6 +1460,7 @@
       "print_time": "7:34",
       "total_weight_grams": 117.81,
       "round": "free",
+      "updated_at": "2026-08-17T03:50:21.114306+00:00",
       "entitled": true
     },
     {
@@ -1328,6 +1471,7 @@
       "print_time": "7:10",
       "total_weight_grams": 124.75,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:33.287332+00:00",
       "entitled": false
     },
     {
@@ -1338,6 +1482,7 @@
       "print_time": "5:55",
       "total_weight_grams": 115.62,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:38.629851+00:00",
       "entitled": false
     },
     {
@@ -1348,6 +1493,7 @@
       "print_time": "5:34:44",
       "total_weight_grams": 104,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1358,6 +1504,7 @@
       "print_time": "7:16",
       "total_weight_grams": 144.08,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:38.614261+00:00",
       "entitled": false
     },
     {
@@ -1368,6 +1515,7 @@
       "print_time": "4:50",
       "total_weight_grams": 88.41,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:40.277434+00:00",
       "entitled": true
     },
     {
@@ -1378,6 +1526,7 @@
       "print_time": "6:50",
       "total_weight_grams": 117,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:44.858869+00:00",
       "entitled": false
     },
     {
@@ -1388,6 +1537,7 @@
       "print_time": "7:48",
       "total_weight_grams": 120.18,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:47.628921+00:00",
       "entitled": false
     },
     {
@@ -1398,6 +1548,7 @@
       "print_time": "8:27",
       "total_weight_grams": 144.98,
       "round": 13,
+      "updated_at": "2026-07-23T03:40:56.924+00:00",
       "entitled": false
     },
     {
@@ -1408,6 +1559,7 @@
       "print_time": "4:38",
       "total_weight_grams": 98.13,
       "round": 13,
+      "updated_at": "2026-08-15T04:48:52.125265+00:00",
       "entitled": false
     },
     {
@@ -1418,6 +1570,7 @@
       "print_time": "3:42",
       "total_weight_grams": 77.23,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1428,6 +1581,7 @@
       "print_time": "4:28",
       "total_weight_grams": 88.54,
       "round": 13,
+      "updated_at": "2026-08-15T04:49:03.515433+00:00",
       "entitled": false
     },
     {
@@ -1438,6 +1592,7 @@
       "print_time": "6:34",
       "total_weight_grams": 115.8,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:02.75779+00:00",
       "entitled": true
     },
     {
@@ -1448,6 +1603,7 @@
       "print_time": "5:24",
       "total_weight_grams": 102.63,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:02.689835+00:00",
       "entitled": false
     },
     {
@@ -1458,6 +1614,7 @@
       "print_time": "5:42",
       "total_weight_grams": 125.88,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:02.572682+00:00",
       "entitled": false
     },
     {
@@ -1468,6 +1625,7 @@
       "print_time": "4:31",
       "total_weight_grams": 80.41,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:04.292572+00:00",
       "entitled": false
     },
     {
@@ -1478,6 +1636,7 @@
       "print_time": "6:41",
       "total_weight_grams": 134.95,
       "round": 12,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -1488,6 +1647,7 @@
       "print_time": "6:08",
       "total_weight_grams": 122.68,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:07.023113+00:00",
       "entitled": true
     },
     {
@@ -1498,6 +1658,7 @@
       "print_time": "4:12",
       "total_weight_grams": 84.81,
       "round": "free",
+      "updated_at": "2026-08-15T04:49:09.684499+00:00",
       "entitled": true
     },
     {
@@ -1508,6 +1669,7 @@
       "print_time": "6:20",
       "total_weight_grams": 115.82,
       "round": 12,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -1518,6 +1680,7 @@
       "print_time": "6:57",
       "total_weight_grams": 129.09,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:11.698103+00:00",
       "entitled": true
     },
     {
@@ -1528,6 +1691,7 @@
       "print_time": "5:58",
       "total_weight_grams": 117.36,
       "round": 12,
+      "updated_at": "2026-08-15T04:49:14.211048+00:00",
       "entitled": true
     },
     {
@@ -1538,6 +1702,7 @@
       "print_time": "7:53",
       "total_weight_grams": 139.93,
       "round": 11,
+      "updated_at": "2026-08-06T23:34:04.431321+00:00",
       "entitled": false
     },
     {
@@ -1548,6 +1713,7 @@
       "print_time": "3:01",
       "total_weight_grams": 71.1,
       "round": 11,
+      "updated_at": "2026-08-15T04:49:19.006386+00:00",
       "entitled": false
     },
     {
@@ -1558,6 +1724,7 @@
       "print_time": "7:46",
       "total_weight_grams": 150.97,
       "round": 11,
+      "updated_at": "2026-08-15T04:49:26.301871+00:00",
       "entitled": true
     },
     {
@@ -1568,6 +1735,7 @@
       "print_time": "2:53",
       "total_weight_grams": 65.91,
       "round": 11,
+      "updated_at": "2026-08-15T04:49:28.533465+00:00",
       "entitled": false
     },
     {
@@ -1578,6 +1746,7 @@
       "print_time": "7:20",
       "total_weight_grams": 138.18,
       "round": "free",
+      "updated_at": "2026-08-15T04:49:30.190223+00:00",
       "entitled": true
     },
     {
@@ -1588,6 +1757,7 @@
       "print_time": "2:59",
       "total_weight_grams": 69.89,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1598,6 +1768,7 @@
       "print_time": "5:52",
       "total_weight_grams": 118.81,
       "round": 11,
+      "updated_at": "2026-08-15T04:49:32.845494+00:00",
       "entitled": false
     },
     {
@@ -1608,6 +1779,7 @@
       "print_time": "3:42",
       "total_weight_grams": 76.9,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1618,6 +1790,7 @@
       "print_time": "3:35:16",
       "total_weight_grams": 81,
       "round": null,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -1628,6 +1801,7 @@
       "print_time": "5:06",
       "total_weight_grams": 122.93,
       "round": 11,
+      "updated_at": "2026-08-15T04:49:35.06921+00:00",
       "entitled": true
     },
     {
@@ -1638,6 +1812,7 @@
       "print_time": "4:31",
       "total_weight_grams": 96.35,
       "round": 10,
+      "updated_at": "2026-08-15T04:49:37.585652+00:00",
       "entitled": false
     },
     {
@@ -1648,6 +1823,7 @@
       "print_time": "7:38",
       "total_weight_grams": 136.58,
       "round": 9,
+      "updated_at": "2026-08-17T08:43:38.454667+00:00",
       "entitled": false
     },
     {
@@ -1658,6 +1834,7 @@
       "print_time": "7:05",
       "total_weight_grams": 120.41,
       "round": 10,
+      "updated_at": "2026-06-03T12:49:39.123+00:00",
       "entitled": true
     },
     {
@@ -1668,6 +1845,7 @@
       "print_time": "7:23",
       "total_weight_grams": 111.53,
       "round": 10,
+      "updated_at": "2026-08-15T04:49:44.110147+00:00",
       "entitled": false
     },
     {
@@ -1678,6 +1856,7 @@
       "print_time": "4:24",
       "total_weight_grams": 94.34,
       "round": 11,
+      "updated_at": "2026-04-07T16:01:45.023+00:00",
       "entitled": true
     },
     {
@@ -1688,6 +1867,7 @@
       "print_time": "4:05",
       "total_weight_grams": 81.86,
       "round": 11,
+      "updated_at": "2026-08-15T04:49:48.260805+00:00",
       "entitled": true
     },
     {
@@ -1698,6 +1878,7 @@
       "print_time": "4:19",
       "total_weight_grams": 87.73,
       "round": 10,
+      "updated_at": "2026-08-15T04:49:49.883676+00:00",
       "entitled": false
     },
     {
@@ -1708,6 +1889,7 @@
       "print_time": "4:10",
       "total_weight_grams": 85.4,
       "round": 10,
+      "updated_at": "2026-08-15T04:49:52.208356+00:00",
       "entitled": false
     },
     {
@@ -1718,6 +1900,7 @@
       "print_time": "6:53",
       "total_weight_grams": 120.5,
       "round": "welcome-pack",
+      "updated_at": "2026-08-15T04:49:54.86633+00:00",
       "entitled": true
     },
     {
@@ -1728,6 +1911,7 @@
       "print_time": "4:19",
       "total_weight_grams": 80.18,
       "round": "free",
+      "updated_at": "2026-08-15T04:49:56.84984+00:00",
       "entitled": true
     },
     {
@@ -1738,6 +1922,7 @@
       "print_time": "4:03",
       "total_weight_grams": 81.05,
       "round": "free",
+      "updated_at": "2026-08-05T00:28:51.501492+00:00",
       "entitled": true
     },
     {
@@ -1748,6 +1933,7 @@
       "print_time": "5:58",
       "total_weight_grams": 112.61,
       "round": 9,
+      "updated_at": "2026-07-24T14:34:26.779597+00:00",
       "entitled": false
     },
     {
@@ -1758,6 +1944,7 @@
       "print_time": "4:48",
       "total_weight_grams": 86.13,
       "round": 10,
+      "updated_at": "2026-07-28T01:19:45.56+00:00",
       "entitled": true
     },
     {
@@ -1768,6 +1955,7 @@
       "print_time": "5:13",
       "total_weight_grams": 105.72,
       "round": "free",
+      "updated_at": "2026-08-15T04:50:06.085025+00:00",
       "entitled": true
     },
     {
@@ -1778,6 +1966,7 @@
       "print_time": "4:36",
       "total_weight_grams": 90.3,
       "round": 10,
+      "updated_at": "2026-08-15T04:50:08.550332+00:00",
       "entitled": true
     },
     {
@@ -1788,6 +1977,7 @@
       "print_time": "4:01",
       "total_weight_grams": 76.99,
       "round": 10,
+      "updated_at": "2026-08-15T04:50:10.789981+00:00",
       "entitled": false
     },
     {
@@ -1798,6 +1988,7 @@
       "print_time": "7:13",
       "total_weight_grams": 139.54,
       "round": 10,
+      "updated_at": "2026-08-06T23:34:28.569547+00:00",
       "entitled": false
     },
     {
@@ -1808,6 +1999,7 @@
       "print_time": "4:52",
       "total_weight_grams": 106.52,
       "round": 9,
+      "updated_at": "2026-08-15T04:50:13.534468+00:00",
       "entitled": false
     },
     {
@@ -1818,6 +2010,7 @@
       "print_time": "5:26",
       "total_weight_grams": 97.85,
       "round": 9,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -1828,6 +2021,7 @@
       "print_time": "4:22",
       "total_weight_grams": 83.79,
       "round": 9,
+      "updated_at": "2026-08-03T07:50:20.121307+00:00",
       "entitled": false
     },
     {
@@ -1838,6 +2032,7 @@
       "print_time": "5:02",
       "total_weight_grams": 89.73,
       "round": 9,
+      "updated_at": "2026-08-15T04:50:29.589387+00:00",
       "entitled": false
     },
     {
@@ -1848,6 +2043,7 @@
       "print_time": "5:56",
       "total_weight_grams": 113.8,
       "round": 9,
+      "updated_at": "2026-08-15T04:50:31.602826+00:00",
       "entitled": false
     },
     {
@@ -1858,6 +2054,7 @@
       "print_time": "4:31",
       "total_weight_grams": 85.06,
       "round": "free",
+      "updated_at": "2026-08-15T04:50:33.970434+00:00",
       "entitled": true
     },
     {
@@ -1868,6 +2065,7 @@
       "print_time": "5:05",
       "total_weight_grams": 98.01,
       "round": 8,
+      "updated_at": "2026-08-15T04:50:36.151975+00:00",
       "entitled": false
     },
     {
@@ -1878,6 +2076,7 @@
       "print_time": "4:34",
       "total_weight_grams": 90.58,
       "round": 8,
+      "updated_at": "2026-08-15T04:50:39.123237+00:00",
       "entitled": false
     },
     {
@@ -1888,6 +2087,7 @@
       "print_time": "5:40",
       "total_weight_grams": 108,
       "round": 8,
+      "updated_at": "2026-08-15T04:50:41.800611+00:00",
       "entitled": false
     },
     {
@@ -1898,6 +2098,7 @@
       "print_time": "5:11",
       "total_weight_grams": 98.3,
       "round": 8,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -1908,6 +2109,7 @@
       "print_time": "4:11",
       "total_weight_grams": 83.75,
       "round": 9,
+      "updated_at": "2026-08-15T04:50:44.752791+00:00",
       "entitled": false
     },
     {
@@ -1918,6 +2120,7 @@
       "print_time": "5:37",
       "total_weight_grams": 106.45,
       "round": "welcome-pack",
+      "updated_at": "2026-08-15T04:50:47.369441+00:00",
       "entitled": true
     },
     {
@@ -1928,6 +2131,7 @@
       "print_time": "2:55",
       "total_weight_grams": 68.61,
       "round": 4,
+      "updated_at": "2026-08-15T04:50:49.585198+00:00",
       "entitled": false
     },
     {
@@ -1938,6 +2142,7 @@
       "print_time": "4:49",
       "total_weight_grams": 98.1,
       "round": 5,
+      "updated_at": "2026-06-13T08:23:55.736+00:00",
       "entitled": false
     },
     {
@@ -1948,6 +2153,7 @@
       "print_time": "5:17",
       "total_weight_grams": 97.7,
       "round": "welcome-pack",
+      "updated_at": "2026-08-15T04:50:53.456236+00:00",
       "entitled": true
     },
     {
@@ -1958,6 +2164,7 @@
       "print_time": "4:27",
       "total_weight_grams": 85.74,
       "round": "welcome-pack",
+      "updated_at": "2026-08-15T04:50:56.324244+00:00",
       "entitled": true
     },
     {
@@ -1968,6 +2175,7 @@
       "print_time": "4:42",
       "total_weight_grams": 89.78,
       "round": 7,
+      "updated_at": "2026-08-15T04:50:58.12337+00:00",
       "entitled": false
     },
     {
@@ -1978,6 +2186,7 @@
       "print_time": "5:28",
       "total_weight_grams": 108.36,
       "round": "welcome-pack",
+      "updated_at": "2026-08-16T23:41:04.900291+00:00",
       "entitled": true
     },
     {
@@ -1988,6 +2197,7 @@
       "print_time": "3:22",
       "total_weight_grams": 75.91,
       "round": "free",
+      "updated_at": "2026-08-05T00:15:48.491034+00:00",
       "entitled": true
     },
     {
@@ -1998,6 +2208,7 @@
       "print_time": "4:52",
       "total_weight_grams": 94.21,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2008,6 +2219,7 @@
       "print_time": "3:01",
       "total_weight_grams": 70.25,
       "round": "free",
+      "updated_at": "2026-08-05T00:19:38.793301+00:00",
       "entitled": true
     },
     {
@@ -2018,6 +2230,7 @@
       "print_time": "5:26",
       "total_weight_grams": 97.91,
       "round": "welcome-pack",
+      "updated_at": "2026-08-15T04:51:04.817656+00:00",
       "entitled": true
     },
     {
@@ -2028,6 +2241,7 @@
       "print_time": "4:38:50",
       "total_weight_grams": 51.83,
       "round": 5,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -2038,6 +2252,7 @@
       "print_time": "5:10",
       "total_weight_grams": 96.95,
       "round": "welcome-pack",
+      "updated_at": "2026-08-15T04:52:30.082358+00:00",
       "entitled": true
     },
     {
@@ -2048,6 +2263,7 @@
       "print_time": "5:13",
       "total_weight_grams": 106.08,
       "round": 3,
+      "updated_at": "2026-08-15T04:51:14.775359+00:00",
       "entitled": true
     },
     {
@@ -2058,6 +2274,7 @@
       "print_time": "6:39",
       "total_weight_grams": 128.32,
       "round": 6,
+      "updated_at": "2026-08-15T04:52:22.367526+00:00",
       "entitled": true
     },
     {
@@ -2068,6 +2285,7 @@
       "print_time": "4:53",
       "total_weight_grams": 93.77,
       "round": 7,
+      "updated_at": "2026-08-15T04:52:27.862935+00:00",
       "entitled": true
     },
     {
@@ -2078,6 +2296,7 @@
       "print_time": "2:43",
       "total_weight_grams": 65.89,
       "round": 18,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2088,6 +2307,7 @@
       "print_time": "3:08",
       "total_weight_grams": 68.72,
       "round": "free",
+      "updated_at": "2026-08-05T00:11:16.937446+00:00",
       "entitled": true
     },
     {
@@ -2098,6 +2318,7 @@
       "print_time": "2:49",
       "total_weight_grams": 66.51,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2108,6 +2329,7 @@
       "print_time": "3:03",
       "total_weight_grams": 70,
       "round": "free",
+      "updated_at": "2026-08-05T00:27:56.343278+00:00",
       "entitled": true
     },
     {
@@ -2118,6 +2340,7 @@
       "print_time": "4:08",
       "total_weight_grams": 84.39,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2128,6 +2351,7 @@
       "print_time": "3:39",
       "total_weight_grams": 78.63,
       "round": "free",
+      "updated_at": "2026-08-05T00:14:55.667242+00:00",
       "entitled": true
     },
     {
@@ -2138,6 +2362,7 @@
       "print_time": "4:25",
       "total_weight_grams": 94.04,
       "round": 3,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -2148,6 +2373,7 @@
       "print_time": "3:50",
       "total_weight_grams": 82.53,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2158,6 +2384,7 @@
       "print_time": "0:15:44",
       "total_weight_grams": 92,
       "round": "free",
+      "updated_at": "2026-08-15T04:51:08.144541+00:00",
       "entitled": true
     },
     {
@@ -2168,6 +2395,7 @@
       "print_time": "4:19",
       "total_weight_grams": 84.37,
       "round": 3,
+      "updated_at": "2026-07-29T10:17:00.651+00:00",
       "entitled": false
     },
     {
@@ -2178,6 +2406,7 @@
       "print_time": "2:47",
       "total_weight_grams": 63.74,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2188,6 +2417,7 @@
       "print_time": "5:11",
       "total_weight_grams": 95.54,
       "round": 8,
+      "updated_at": "2026-08-15T04:52:36.083485+00:00",
       "entitled": false
     },
     {
@@ -2198,6 +2428,7 @@
       "print_time": "4:00",
       "total_weight_grams": 82.87,
       "round": 3,
+      "updated_at": "2026-07-24T14:35:22.759145+00:00",
       "entitled": false
     },
     {
@@ -2208,6 +2439,7 @@
       "print_time": "4:17:19",
       "total_weight_grams": 100.37,
       "round": 6,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -2218,6 +2450,7 @@
       "print_time": "4:10",
       "total_weight_grams": 89.62,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2228,6 +2461,7 @@
       "print_time": "4:18",
       "total_weight_grams": 85.12,
       "round": 3,
+      "updated_at": "2026-08-15T04:51:12.034256+00:00",
       "entitled": true
     },
     {
@@ -2238,6 +2472,7 @@
       "print_time": "3:56",
       "total_weight_grams": 83.45,
       "round": "free",
+      "updated_at": "2026-08-05T00:17:22.541843+00:00",
       "entitled": true
     },
     {
@@ -2248,6 +2483,7 @@
       "print_time": "4:39",
       "total_weight_grams": 93.05,
       "round": "free",
+      "updated_at": "2026-08-15T04:51:54.063398+00:00",
       "entitled": true
     },
     {
@@ -2258,6 +2494,7 @@
       "print_time": "3:09",
       "total_weight_grams": 72.88,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2268,6 +2505,7 @@
       "print_time": "4:36",
       "total_weight_grams": 101.72,
       "round": 3,
+      "updated_at": "2026-08-15T04:52:05.891779+00:00",
       "entitled": false
     },
     {
@@ -2278,6 +2516,7 @@
       "print_time": "3:10",
       "total_weight_grams": 71.05,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2288,6 +2527,7 @@
       "print_time": "5:32",
       "total_weight_grams": 103.71,
       "round": "free",
+      "updated_at": "2026-08-18T06:00:25.794521+00:00",
       "entitled": true
     },
     {
@@ -2298,6 +2538,7 @@
       "print_time": "4:51",
       "total_weight_grams": 98.61,
       "round": 4,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -2308,6 +2549,7 @@
       "print_time": "6:40",
       "total_weight_grams": 119.51,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2318,6 +2560,7 @@
       "print_time": "2:43",
       "total_weight_grams": 65.49,
       "round": 18,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2328,6 +2571,7 @@
       "print_time": "4:21",
       "total_weight_grams": 90.96,
       "round": 2,
+      "updated_at": "2026-08-18T03:39:24.267705+00:00",
       "entitled": false
     },
     {
@@ -2338,6 +2582,7 @@
       "print_time": "3:45",
       "total_weight_grams": 87.26,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2348,6 +2593,7 @@
       "print_time": "5:01",
       "total_weight_grams": 100.55,
       "round": 6,
+      "updated_at": "2026-08-15T04:52:00.944667+00:00",
       "entitled": false
     },
     {
@@ -2358,6 +2604,7 @@
       "print_time": "6:18",
       "total_weight_grams": 114.53,
       "round": 5,
+      "updated_at": "2026-08-15T04:51:23.599488+00:00",
       "entitled": true
     },
     {
@@ -2368,6 +2615,7 @@
       "print_time": "4:28",
       "total_weight_grams": 85.43,
       "round": 8,
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": false
     },
     {
@@ -2378,6 +2626,7 @@
       "print_time": "3:42",
       "total_weight_grams": 81.73,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2388,6 +2637,7 @@
       "print_time": "4:09:39",
       "total_weight_grams": 92.51,
       "round": "free",
+      "updated_at": "2026-04-17T06:12:16.963+00:00",
       "entitled": true
     },
     {
@@ -2398,6 +2648,7 @@
       "print_time": "4:33:21",
       "total_weight_grams": 101,
       "round": "free",
+      "updated_at": "2026-08-05T00:18:00.910975+00:00",
       "entitled": true
     },
     {
@@ -2408,6 +2659,7 @@
       "print_time": "4:58",
       "total_weight_grams": 100.36,
       "round": 7,
+      "updated_at": "2026-08-15T04:52:24.195072+00:00",
       "entitled": false
     },
     {
@@ -2418,6 +2670,7 @@
       "print_time": "3:24",
       "total_weight_grams": 80.52,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2428,6 +2681,7 @@
       "print_time": "7:35",
       "total_weight_grams": 145.34,
       "round": 4,
+      "updated_at": "2026-05-08T11:16:36.495+00:00",
       "entitled": true
     },
     {
@@ -2438,6 +2692,7 @@
       "print_time": "3:23:23",
       "total_weight_grams": 38.19,
       "round": "free",
+      "updated_at": "2026-08-05T00:15:29.96892+00:00",
       "entitled": true
     },
     {
@@ -2448,6 +2703,7 @@
       "print_time": "4:21",
       "total_weight_grams": 88.92,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2458,6 +2714,7 @@
       "print_time": "3:43",
       "total_weight_grams": 78.38,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2468,6 +2725,7 @@
       "print_time": "4:19",
       "total_weight_grams": 87.24,
       "round": 5,
+      "updated_at": "2026-08-15T04:52:15.054458+00:00",
       "entitled": true
     },
     {
@@ -2478,6 +2736,7 @@
       "print_time": "3:17",
       "total_weight_grams": 74.04,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2488,6 +2747,7 @@
       "print_time": "4:13",
       "total_weight_grams": 85.73,
       "round": 4,
+      "updated_at": "2026-08-15T04:51:17.143897+00:00",
       "entitled": false
     },
     {
@@ -2498,6 +2758,7 @@
       "print_time": "5:06",
       "total_weight_grams": 97.8,
       "round": 7,
+      "updated_at": "2026-08-15T04:51:38.090538+00:00",
       "entitled": false
     },
     {
@@ -2508,6 +2769,7 @@
       "print_time": "5:51",
       "total_weight_grams": 125.92,
       "round": 6,
+      "updated_at": "2026-08-15T04:52:12.683661+00:00",
       "entitled": false
     },
     {
@@ -2518,6 +2780,7 @@
       "print_time": "6:03",
       "total_weight_grams": 112.13,
       "round": 7,
+      "updated_at": "2026-08-15T04:51:31.892372+00:00",
       "entitled": false
     },
     {
@@ -2528,6 +2791,7 @@
       "print_time": "3:22",
       "total_weight_grams": 72.54,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2538,6 +2802,7 @@
       "print_time": "6:04",
       "total_weight_grams": 120.12,
       "round": 6,
+      "updated_at": "2026-08-15T04:51:28.757197+00:00",
       "entitled": true
     },
     {
@@ -2548,6 +2813,7 @@
       "print_time": "4:18",
       "total_weight_grams": 84.39,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2558,6 +2824,7 @@
       "print_time": "3:56",
       "total_weight_grams": 76.77,
       "round": 4,
+      "updated_at": "2026-08-15T04:51:49.007541+00:00",
       "entitled": false
     },
     {
@@ -2568,6 +2835,7 @@
       "print_time": "5:01",
       "total_weight_grams": 92.19,
       "round": "free",
+      "updated_at": "2026-08-05T00:18:46.774025+00:00",
       "entitled": true
     },
     {
@@ -2578,6 +2846,7 @@
       "print_time": "4:30",
       "total_weight_grams": 86.25,
       "round": 5,
+      "updated_at": "2026-08-15T04:51:20.850461+00:00",
       "entitled": true
     },
     {
@@ -2588,6 +2857,7 @@
       "print_time": "3:34",
       "total_weight_grams": 76.72,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2598,6 +2868,7 @@
       "print_time": "5:06",
       "total_weight_grams": 105.17,
       "round": 4,
+      "updated_at": "2026-08-15T04:52:38.335977+00:00",
       "entitled": false
     },
     {
@@ -2608,6 +2879,7 @@
       "print_time": "4:18",
       "total_weight_grams": 88.76,
       "round": "free",
+      "updated_at": "2026-08-15T04:51:07.05636+00:00",
       "entitled": true
     },
     {
@@ -2618,6 +2890,7 @@
       "print_time": "2:59",
       "total_weight_grams": 66.9,
       "round": "free",
+      "updated_at": "2026-08-05T00:20:14.013055+00:00",
       "entitled": true
     },
     {
@@ -2628,6 +2901,7 @@
       "print_time": "5:50",
       "total_weight_grams": 113.86,
       "round": 2,
+      "updated_at": "2026-08-15T04:51:11.018758+00:00",
       "entitled": false
     },
     {
@@ -2638,6 +2912,7 @@
       "print_time": "4:47",
       "total_weight_grams": 98.87,
       "round": "free",
+      "updated_at": "2026-07-27T20:37:47.878499+00:00",
       "entitled": true
     },
     {
@@ -2648,6 +2923,7 @@
       "print_time": "5:06",
       "total_weight_grams": 94.19,
       "round": 7,
+      "updated_at": "2026-08-15T04:51:33.952429+00:00",
       "entitled": false
     },
     {
@@ -2658,6 +2934,7 @@
       "print_time": "5:55",
       "total_weight_grams": 113.91,
       "round": 4,
+      "updated_at": "2026-06-30T07:05:39.118+00:00",
       "entitled": true
     },
     {
@@ -2668,6 +2945,7 @@
       "print_time": "4:41",
       "total_weight_grams": 102.42,
       "round": 3,
+      "updated_at": "2026-07-14T01:27:22.338111+00:00",
       "entitled": false
     },
     {
@@ -2678,6 +2956,7 @@
       "print_time": "4:02",
       "total_weight_grams": 85.67,
       "round": 7,
+      "updated_at": "2026-08-15T04:51:35.717303+00:00",
       "entitled": false
     },
     {
@@ -2688,6 +2967,7 @@
       "print_time": "5:47",
       "total_weight_grams": 105.6,
       "round": "free",
+      "updated_at": "2026-08-15T04:52:01.998123+00:00",
       "entitled": true
     },
     {
@@ -2698,6 +2978,7 @@
       "print_time": "3:42",
       "total_weight_grams": 80.1,
       "round": "free",
+      "updated_at": "2026-07-30T16:18:01.299046+00:00",
       "entitled": true
     },
     {
@@ -2708,6 +2989,7 @@
       "print_time": "4:15",
       "total_weight_grams": 86.09,
       "round": "free",
+      "updated_at": "2026-08-15T04:51:40.539214+00:00",
       "entitled": true
     },
     {
@@ -2718,6 +3000,7 @@
       "print_time": "3:35",
       "total_weight_grams": 74.18,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2728,6 +3011,7 @@
       "print_time": "3:01",
       "total_weight_grams": 70.44,
       "round": "free",
+      "updated_at": "2026-08-15T04:52:32.202455+00:00",
       "entitled": true
     },
     {
@@ -2738,6 +3022,7 @@
       "print_time": "5:07",
       "total_weight_grams": 94.38,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2748,6 +3033,7 @@
       "print_time": "2:47",
       "total_weight_grams": 65.39,
       "round": "free",
+      "updated_at": "2026-07-08T04:05:42.3943+00:00",
       "entitled": true
     },
     {
@@ -2758,13 +3044,14 @@
       "print_time": "5:33",
       "total_weight_grams": 112.12,
       "round": 4,
+      "updated_at": "2026-08-06T23:35:10.740612+00:00",
       "entitled": true
     }
   ],
   "pagination": {
     "page": 1,
-    "limit": 276,
-    "total": 276,
+    "limit": 277,
+    "total": 277,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
