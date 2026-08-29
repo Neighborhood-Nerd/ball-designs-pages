@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "slug": "0065-mega-alakazam",
+      "title": "0065 - Mega Alakazam",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0065%20-%20Mega%20Alakazam%20-%20V1/1-400.webp",
+      "print_time": "7:15",
+      "total_weight_grams": 130.09,
+      "round": 25,
+      "updated_at": "2026-08-29T01:34:18.987+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0078-rapidash",
       "title": "0078 - Rapidash",
       "category": "character",
@@ -127,7 +138,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-400.webp",
       "print_time": "6:23",
-      "total_weight_grams": 93.92,
+      "total_weight_grams": 45.18,
       "round": 24,
       "updated_at": "2026-07-20T02:17:59.082+00:00",
       "entitled": true
@@ -3072,8 +3083,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 279,
-    "total": 279,
+    "limit": 280,
+    "total": 280,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
