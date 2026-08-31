@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "slug": "0792-lunala",
+      "title": "0792 - Lunala",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0792%20-%20Lunala%20-%20V1/1-400.webp",
+      "print_time": "0:00:00",
+      "total_weight_grams": 135.23,
+      "round": 25,
+      "updated_at": "2026-08-31T05:20:05.837+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0065-mega-alakazam",
       "title": "0065 - Mega Alakazam",
       "category": "character",
@@ -138,7 +149,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-400.webp",
       "print_time": "6:23",
-      "total_weight_grams": 45.18,
+      "total_weight_grams": 63.03,
       "round": 24,
       "updated_at": "2026-07-20T02:17:59.082+00:00",
       "entitled": true
@@ -3083,8 +3094,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 280,
-    "total": 280,
+    "limit": 281,
+    "total": 281,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
