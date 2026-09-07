@@ -1,6 +1,18 @@
 {
   "data": [
     {
+      "slug": "0252-treecko",
+      "title": "0252 - Treecko",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0252%20-%20Treecko%20-%20V1/1-400.webp",
+      "print_time": "4:45",
+      "total_weight_grams": 98.72,
+      "round": 26,
+      "purchase_only": false,
+      "updated_at": "2026-09-07T01:06:52.753+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0255-torchic",
       "title": "0255 - Torchic",
       "category": "character",
@@ -174,7 +186,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-400.webp",
       "print_time": "6:23",
-      "total_weight_grams": 45.18,
+      "total_weight_grams": 0,
       "round": 24,
       "purchase_only": false,
       "updated_at": "2026-07-20T02:17:59.082+00:00",
@@ -3387,8 +3399,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 282,
-    "total": 282,
+    "limit": 283,
+    "total": 283,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
