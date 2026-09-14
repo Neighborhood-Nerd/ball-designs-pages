@@ -1,6 +1,19 @@
 {
   "data": [
     {
+      "slug": "0084-doduo",
+      "title": "0084 - Doduo",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0084%20-%20Doduo%20-%20%20V1/1-400.webp",
+      "print_time": "5:17",
+      "total_weight_grams": 92.88,
+      "round": 26,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0084-doduo.webp",
+      "updated_at": "2026-09-13T23:57:22.207+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0068-machamp",
       "title": "0068 - Machamp",
       "category": "character",
@@ -227,7 +240,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0395%20-%20Empoleon%20-%20V1/1-400.webp",
       "print_time": "6:15",
-      "total_weight_grams": 103.85,
+      "total_weight_grams": 92.54,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0395-empoleon.webp",
@@ -2206,7 +2219,7 @@
       "total_weight_grams": 122.93,
       "round": 11,
       "purchase_only": false,
-      "sprite_url": null,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0491-darkrai.webp",
       "updated_at": "2025-06-15T09:11:59+00:00",
       "entitled": true
     },
@@ -3682,8 +3695,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 283,
-    "total": 283,
+    "limit": 284,
+    "total": 284,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
