@@ -1,6 +1,19 @@
 {
   "data": [
     {
+      "slug": "0791-solgaleo",
+      "title": "0791 - Solgaleo",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0791%20-%20Solgaleo%20-%20V1/1-400.webp",
+      "print_time": "8:11",
+      "total_weight_grams": 133.69,
+      "round": 26,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0791-solgaleo.webp",
+      "updated_at": "2026-09-16T01:03:01.406+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0084-doduo",
       "title": "0084 - Doduo",
       "category": "character",
@@ -1553,7 +1566,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0062%20-%20Poliwrath%20-%20V1/1-400.webp",
       "print_time": "4:51",
-      "total_weight_grams": 93.82,
+      "total_weight_grams": 41.95,
       "round": 15,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0062-poliwrath.webp",
@@ -3695,8 +3708,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 284,
-    "total": 284,
+    "limit": 285,
+    "total": 285,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
