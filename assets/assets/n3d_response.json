@@ -939,9 +939,9 @@
       "total_weight_grams": 127,
       "round": 20,
       "purchase_only": false,
-      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0142-aerodactyl.webp?v=g2",
-      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0142-aerodactyl.png?v=g2",
-      "sprite_revision": "g2",
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0142-aerodactyl.webp?v=g6",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0142-aerodactyl.png?v=g6",
+      "sprite_revision": "g6",
       "updated_at": "2026-03-25T23:04:47.182+00:00",
       "entitled": false
     },
