@@ -4040,14 +4040,14 @@
       "title": "0001 - Bulbasaur",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0001%20-%20Bulbasaur%20-%20V3/1-400.webp",
-      "print_time": "4:18",
-      "total_weight_grams": 88.76,
+      "print_time": "4:16",
+      "total_weight_grams": 88.44,
       "round": "free",
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0001-bulbasaur.webp?v=g2",
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0001-bulbasaur.png?v=g2",
       "sprite_revision": "g2",
-      "updated_at": "2025-03-18T04:53:17+00:00",
+      "updated_at": "2026-09-21T06:54:20.259+00:00",
       "entitled": true
     },
     {
