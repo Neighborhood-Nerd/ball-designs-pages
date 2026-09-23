@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0085-dodrio",
+      "title": "0085 - Dodrio",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0085%20-%20Dodrio%20-%20V1/1-400.webp",
+      "print_time": "7:34",
+      "total_weight_grams": 131.96,
+      "round": 26,
+      "purchase_only": false,
+      "sprite_url": null,
+      "sprite_png_url": null,
+      "sprite_revision": null,
+      "updated_at": "2026-09-23T11:44:59.295+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0791-solgaleo",
       "title": "0791 - Solgaleo",
       "category": "character",
@@ -291,7 +306,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0395%20-%20Empoleon%20-%20V1/1-400.webp",
       "print_time": "6:15",
-      "total_weight_grams": 92.54,
+      "total_weight_grams": 19.3,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0395-empoleon.webp?v=g2",
@@ -4278,8 +4293,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 285,
-    "total": 285,
+    "limit": 286,
+    "total": 286,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
