@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0259-marshtomp",
+      "title": "0259 - Marshtomp",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0259%20-%20Marshtomp%20-%20V1/1-400.webp",
+      "print_time": "5:28",
+      "total_weight_grams": 100.56,
+      "round": 26,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0259-marshtomp.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0259-marshtomp.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-09-24T07:22:53.393+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0085-dodrio",
       "title": "0085 - Dodrio",
       "category": "character",
@@ -9,9 +24,9 @@
       "total_weight_grams": 131.96,
       "round": 26,
       "purchase_only": false,
-      "sprite_url": null,
-      "sprite_png_url": null,
-      "sprite_revision": null,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0085-dodrio.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0085-dodrio.png?v=g5",
+      "sprite_revision": "g5",
       "updated_at": "2026-09-23T11:44:59.295+00:00",
       "entitled": true
     },
@@ -4293,8 +4308,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 286,
-    "total": 286,
+    "limit": 287,
+    "total": 287,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
