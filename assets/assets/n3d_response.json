@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0130-gyarados-2",
+      "title": "0130 - Mega Gyarados",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0130%20-%20Gyarados%20-%20V1/1-480.webp",
+      "print_time": "7:56",
+      "total_weight_grams": 130.67,
+      "round": 26,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0130-gyarados-2.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0130-gyarados-2.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-09-30T08:22:10.08+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0260-swampert",
       "title": "0260 - Swampert",
       "category": "character",
@@ -336,7 +351,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0395%20-%20Empoleon%20-%20V1/1-480.webp",
       "print_time": "6:15",
-      "total_weight_grams": 92.54,
+      "total_weight_grams": 14.77,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0395-empoleon.webp?v=g2",
@@ -4323,8 +4338,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 288,
-    "total": 288,
+    "limit": 289,
+    "total": 289,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
