@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "pokeball-open",
+      "title": "N3D Hinged Pokeball.",
+      "category": "standard",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Pokeball%20-%20Open/1-480.webp",
+      "print_time": "8:15:42",
+      "total_weight_grams": 118.86,
+      "round": "free",
+      "purchase_only": false,
+      "sprite_url": null,
+      "sprite_png_url": null,
+      "sprite_revision": null,
+      "updated_at": "2026-10-02T11:09:02.699+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0130-gyarados-2",
       "title": "0130 - Mega Gyarados",
       "category": "character",
@@ -1499,21 +1514,6 @@
       "sprite_revision": "g2",
       "updated_at": "2025-12-12T19:45:31.918+00:00",
       "entitled": false
-    },
-    {
-      "slug": "pokeball-open",
-      "title": "Pokeball - Functional",
-      "category": "standard",
-      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/Pokeball%20-%20Open/1-480.webp",
-      "print_time": "8:15:42",
-      "total_weight_grams": 118.86,
-      "round": "free",
-      "purchase_only": false,
-      "sprite_url": null,
-      "sprite_png_url": null,
-      "sprite_revision": null,
-      "updated_at": "2025-12-12T19:45:18.999+00:00",
-      "entitled": true
     },
     {
       "slug": "0091-cloyster",
