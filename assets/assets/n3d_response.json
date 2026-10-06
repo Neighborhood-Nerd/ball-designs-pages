@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0710-pumpkaboo",
+      "title": "0710 - Pumpkaboo",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0710%20-%20Pumpkaboo%20-%20V1/1-480.webp",
+      "print_time": "5:09",
+      "total_weight_grams": 0,
+      "round": "free",
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0710-pumpkaboo.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0710-pumpkaboo.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-10-06T01:58:00.166+00:00",
+      "entitled": true
+    },
+    {
       "slug": "pokeball-open",
       "title": "N3D Hinged Pokeball.",
       "category": "standard",
@@ -351,7 +366,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-480.webp",
       "print_time": "6:23",
-      "total_weight_grams": 0,
+      "total_weight_grams": 1.18,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0156-quilava.webp?v=g2",
@@ -366,7 +381,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0395%20-%20Empoleon%20-%20V1/1-480.webp",
       "print_time": "6:15",
-      "total_weight_grams": 14.77,
+      "total_weight_grams": 103.85,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0395-empoleon.webp?v=g2",
@@ -2225,14 +2240,14 @@
       "title": "0483 - Dialga",
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0483%20-%20Dialga%20-%20V1/1-480.webp",
-      "print_time": "7:16",
-      "total_weight_grams": 144.08,
+      "print_time": "6:35",
+      "total_weight_grams": 123.66,
       "round": 13,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0483-dialga.webp?v=g2",
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0483-dialga.png?v=g2",
       "sprite_revision": "g2",
-      "updated_at": "2025-08-23T05:05:20+00:00",
+      "updated_at": "2026-10-05T06:14:30.591+00:00",
       "entitled": false
     },
     {
@@ -3889,15 +3904,15 @@
       "slug": "0129-magikarp",
       "title": "0129 - Magikarp",
       "category": "character",
-      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0129%20-%20Magikarp%20-%20V1/1-480.webp",
-      "print_time": "4:19",
-      "total_weight_grams": 87.24,
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0129%20-%20Magikarp%20-%20V1/1-480.webp",
+      "print_time": "4:31",
+      "total_weight_grams": 86.1,
       "round": 5,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0129-magikarp.webp?v=g2",
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0129-magikarp.png?v=g2",
       "sprite_revision": "g2",
-      "updated_at": "2025-03-18T04:53:17+00:00",
+      "updated_at": "2026-10-06T10:21:44.981+00:00",
       "entitled": true
     },
     {
@@ -4338,8 +4353,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 289,
-    "total": 289,
+    "limit": 290,
+    "total": 290,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
