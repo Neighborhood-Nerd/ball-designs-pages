@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0249-shadow-lugia",
+      "title": "0249 - Shadow Lugia - BONUS OCTOBER DROP",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0249%20-%20Shadow%20Lugia%20-%20V1/1-480.webp",
+      "print_time": "5:44",
+      "total_weight_grams": 111.1,
+      "round": 27,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0249-shadow-lugia.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0249-shadow-lugia.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-10-12T02:37:17.447+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0710-pumpkaboo",
       "title": "0710 - Pumpkaboo",
       "category": "character",
@@ -366,7 +381,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-480.webp",
       "print_time": "6:23",
-      "total_weight_grams": 1.18,
+      "total_weight_grams": 15.93,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0156-quilava.webp?v=g2",
@@ -3169,15 +3184,15 @@
       "slug": "0249-lugia",
       "title": "0249 - Lugia",
       "category": "character",
-      "image_url": "https://seiycbyxhnyejmqkcxqr.supabase.co/storage/v1/object/public/design-images/0249%20-%20Lugia%20-%20V1/1-480.webp",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0249%20-%20Lugia%20-%20V1/1-480.webp",
       "print_time": "5:28",
-      "total_weight_grams": 108.36,
+      "total_weight_grams": 107.73,
       "round": "welcome-pack",
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0249-lugia.webp?v=g2",
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0249-lugia.png?v=g2",
       "sprite_revision": "g2",
-      "updated_at": "2025-04-04T03:29:02+00:00",
+      "updated_at": "2026-10-12T02:19:12.548+00:00",
       "entitled": true
     },
     {
@@ -4353,8 +4368,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 290,
-    "total": 290,
+    "limit": 291,
+    "total": 291,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
