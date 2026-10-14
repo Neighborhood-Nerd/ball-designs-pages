@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0214-heracross",
+      "title": "0214 - Heracross",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0214%20-%20Heracross%20-%20V1/1-480.webp",
+      "print_time": "5:27",
+      "total_weight_grams": 105.88,
+      "round": 27,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0214-heracross.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0214-heracross.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-10-14T06:10:44.464+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0249-shadow-lugia",
       "title": "0249 - Shadow Lugia - BONUS OCTOBER DROP",
       "category": "character",
@@ -381,7 +396,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0156%20-%20Quilava%20-%20V1/1-480.webp",
       "print_time": "6:23",
-      "total_weight_grams": 15.93,
+      "total_weight_grams": 63.03,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0156-quilava.webp?v=g2",
@@ -4368,8 +4383,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 291,
-    "total": 291,
+    "limit": 292,
+    "total": 292,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
