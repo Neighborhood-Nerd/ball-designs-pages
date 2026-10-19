@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0154-meganium",
+      "title": "0154 - Meganium",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0154%20-%20Meganium%20-%20V1/1-480.webp",
+      "print_time": "6:02",
+      "total_weight_grams": 97.7,
+      "round": 27,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0154-meganium.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0154-meganium.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-10-18T22:56:36.777+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0159-croconaw",
       "title": "0159 - Croconaw",
       "category": "character",
@@ -148,7 +163,7 @@
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0791-solgaleo.png?v=g3",
       "sprite_revision": "g3",
       "updated_at": "2026-09-16T01:03:01.406+00:00",
-      "entitled": true
+      "entitled": false
     },
     {
       "slug": "0084-doduo",
@@ -223,7 +238,7 @@
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0792-lunala.png?v=g2",
       "sprite_revision": "g2",
       "updated_at": "2026-08-31T05:20:05.837+00:00",
-      "entitled": true
+      "entitled": false
     },
     {
       "slug": "0065-mega-alakazam",
@@ -4398,8 +4413,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 293,
-    "total": 293,
+    "limit": 294,
+    "total": 294,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
