@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0106-hitmonlee",
+      "title": "0106 - Hitmonlee",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0106%20-%20Hitmonlee%20-%20V1/1-480.webp",
+      "print_time": "4:15",
+      "total_weight_grams": 80.68,
+      "round": 27,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0106-hitmonlee.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0106-hitmonlee.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-10-21T10:55:20.92+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0154-meganium",
       "title": "0154 - Meganium",
       "category": "character",
@@ -21,13 +36,13 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0159%20-%20Croconaw%20-%20V1/1-480.webp",
       "print_time": "5:22",
-      "total_weight_grams": 100.52,
+      "total_weight_grams": 0,
       "round": 27,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0159-croconaw.webp?v=g5",
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0159-croconaw.png?v=g5",
       "sprite_revision": "g5",
-      "updated_at": "2026-10-17T01:32:05.193+00:00",
+      "updated_at": "2026-10-20T22:47:25.175+00:00",
       "entitled": true
     },
     {
@@ -111,7 +126,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0260%20-%20V1/1-480.webp",
       "print_time": "6:15",
-      "total_weight_grams": 74.99,
+      "total_weight_grams": 104.76,
       "round": 26,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0260-swampert.webp?v=g5",
@@ -411,7 +426,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0138%20-%20Omanyte%20-%20V1/1-480.webp",
       "print_time": "4:42",
-      "total_weight_grams": 0,
+      "total_weight_grams": 90.95,
       "round": 24,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0138-omanyte.webp?v=g2",
@@ -1941,7 +1956,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0062%20-%20Poliwrath%20-%20V1/1-480.webp",
       "print_time": "4:51",
-      "total_weight_grams": 41.95,
+      "total_weight_grams": 93.82,
       "round": 15,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0062-poliwrath.webp?v=g2",
@@ -4413,8 +4428,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 294,
-    "total": 294,
+    "limit": 295,
+    "total": 295,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
