@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0107-hitmonchan",
+      "title": "0107 - Hitmonchan",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0107%20-%20Hitmonchan%20-%20V1/1-480.webp",
+      "print_time": "6:19",
+      "total_weight_grams": 128.09,
+      "round": 27,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0107-hitmonchan.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0107-hitmonchan.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-10-29T03:12:53.262+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0716-xerneas",
       "title": "0716 - Xerneas",
       "category": "character",
@@ -2076,7 +2091,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0057%20-%20Primeape%20-%20V1/1-480.webp",
       "print_time": "5:53",
-      "total_weight_grams": 104.15,
+      "total_weight_grams": 85.96,
       "round": 15,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0057-primeape.webp?v=g2",
@@ -4458,8 +4473,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 297,
-    "total": 297,
+    "limit": 298,
+    "total": 298,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
