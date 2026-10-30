@@ -298,7 +298,7 @@
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0792-lunala.png?v=g2",
       "sprite_revision": "g2",
       "updated_at": "2026-08-31T05:20:05.837+00:00",
-      "entitled": false
+      "entitled": true
     },
     {
       "slug": "0065-mega-alakazam",
