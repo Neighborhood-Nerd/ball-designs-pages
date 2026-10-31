@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "1007-koraidon",
+      "title": "1007 - Koraidon",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/1007%20-%20Koraidon%20-%20V1/1-480.webp",
+      "print_time": "9:35",
+      "total_weight_grams": 140.88,
+      "round": 27,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/1007-koraidon.webp?v=g6",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/1007-koraidon.png?v=g6",
+      "sprite_revision": "g6",
+      "updated_at": "2026-10-31T00:22:18.022+00:00",
+      "entitled": false
+    },
+    {
       "slug": "0107-hitmonchan",
       "title": "0107 - Hitmonchan",
       "category": "character",
@@ -2091,7 +2106,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0057%20-%20Primeape%20-%20V1/1-480.webp",
       "print_time": "5:53",
-      "total_weight_grams": 85.96,
+      "total_weight_grams": 0,
       "round": 15,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0057-primeape.webp?v=g2",
@@ -4473,8 +4488,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 298,
-    "total": 298,
+    "limit": 299,
+    "total": 299,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
