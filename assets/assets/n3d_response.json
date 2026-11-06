@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0153-bayleef",
+      "title": "0153 - Bayleef",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0153%20-%20Bayleef%20-%20V1/1-480.webp",
+      "print_time": "4:34",
+      "total_weight_grams": 90.2,
+      "round": 28,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0153-bayleef.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0153-bayleef.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-11-05T22:48:26.391+00:00",
+      "entitled": true
+    },
+    {
       "slug": "1007-koraidon",
       "title": "1007 - Koraidon",
       "category": "character",
@@ -4488,8 +4503,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 299,
-    "total": 299,
+    "limit": 300,
+    "total": 300,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
