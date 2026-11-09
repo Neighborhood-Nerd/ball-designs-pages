@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "1026-browt",
+      "title": "1026 - Browt",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/1026%20-%20Browt%20-%20V1/1-480.webp",
+      "print_time": "5:09",
+      "total_weight_grams": 100.67,
+      "round": 28,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/1026-browt.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/1026-browt.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-11-09T06:19:37.85+00:00",
+      "entitled": true
+    },
+    {
       "slug": "0153-bayleef",
       "title": "0153 - Bayleef",
       "category": "character",
@@ -4503,8 +4518,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 300,
-    "total": 300,
+    "limit": 301,
+    "total": 301,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
