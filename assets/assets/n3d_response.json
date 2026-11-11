@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "slug": "0199-slowking",
+      "title": "0199 - Slowking",
+      "category": "character",
+      "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0199%20-%20Slowking%20-%20V1/1-480.webp",
+      "print_time": "6:18",
+      "total_weight_grams": 119.28,
+      "round": 28,
+      "purchase_only": false,
+      "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0199-slowking.webp?v=g5",
+      "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0199-slowking.png?v=g5",
+      "sprite_revision": "g5",
+      "updated_at": "2026-11-11T00:03:05.927+00:00",
+      "entitled": true
+    },
+    {
       "slug": "1026-browt",
       "title": "1026 - Browt",
       "category": "character",
@@ -2136,7 +2151,7 @@
       "category": "character",
       "image_url": "https://n3d.supabase.co/storage/v1/object/public/design-images/0057%20-%20Primeape%20-%20V1/1-480.webp",
       "print_time": "5:53",
-      "total_weight_grams": 0,
+      "total_weight_grams": 67.61,
       "round": 15,
       "purchase_only": false,
       "sprite_url": "https://www.n3dmelbourne.com/api/sprite/0057-primeape.webp?v=g2",
@@ -4518,8 +4533,8 @@
   ],
   "pagination": {
     "page": 1,
-    "limit": 301,
-    "total": 301,
+    "limit": 302,
+    "total": 302,
     "total_pages": 1,
     "has_next": false,
     "has_prev": false
