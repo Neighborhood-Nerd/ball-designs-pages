@@ -298,7 +298,7 @@
       "sprite_png_url": "https://www.n3dmelbourne.com/api/sprite/0791-solgaleo.png?v=g3",
       "sprite_revision": "g3",
       "updated_at": "2026-10-26T09:52:21.228+00:00",
-      "entitled": false
+      "entitled": true
     },
     {
       "slug": "0084-doduo",
